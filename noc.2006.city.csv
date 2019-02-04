@@ -1,0 +1,317 @@
+"","GEO.NAME","GEO.CODE","tech","V1","V2","V3"
+"1","Canada","01","Non Tech Occupation",16102865,8287780,7815130
+"2","Canada","01","Tech Occupation",758285,597025,161270
+"3","Newfoundland and Labrador / Terre-Neuve-et-Labrador","10","Non Tech Occupation",234480,120290,114170
+"4","Newfoundland and Labrador / Terre-Neuve-et-Labrador","10","Tech Occupation",7415,6070,1355
+"5","St. John's","10001","Non Tech Occupation",90690,43960,46750
+"6","St. John's","10001","Tech Occupation",5085,4035,1040
+"7","Bay Roberts","10005","Non Tech Occupation",4500,2230,2025
+"8","Bay Roberts","10005","Tech Occupation",65,60,10
+"9","Grand Falls-Windsor","10010","Non Tech Occupation",5985,2880,2950
+"10","Grand Falls-Windsor","10010","Tech Occupation",130,125,0
+"11","Corner Brook","10015","Non Tech Occupation",12225,5890,6070
+"12","Corner Brook","10015","Tech Occupation",310,260,45
+"13","Prince Edward Island / <U+FFFD>le-du-Prince-<U+FFFD>douard","11","Non Tech Occupation",72195,36330,35925
+"14","Prince Edward Island / <U+FFFD>le-du-Prince-<U+FFFD>douard","11","Tech Occupation",2255,1610,630
+"15","Charlottetown","11105","Non Tech Occupation",31090,14940,16045
+"16","Charlottetown","11105","Tech Occupation",1480,1115,375
+"17","Summerside","11110","Non Tech Occupation",8225,3810,4240
+"18","Summerside","11110","Tech Occupation",235,115,70
+"19","Nova Scotia / Nouvelle-<U+FFFD>cosse","12","Non Tech Occupation",452715,230035,222740
+"20","Nova Scotia / Nouvelle-<U+FFFD>cosse","12","Tech Occupation",15890,12580,3330
+"21","Halifax","12205","Non Tech Occupation",199870,98250,101450
+"22","Halifax","12205","Tech Occupation",10310,8275,2025
+"23","Kentville","12210","Non Tech Occupation",12940,6535,6185
+"24","Kentville","12210","Tech Occupation",260,150,125
+"25","Truro","12215","Non Tech Occupation",22255,11435,10620
+"26","Truro","12215","Tech Occupation",410,350,75
+"27","New Glasgow","12220","Non Tech Occupation",17095,8730,8055
+"28","New Glasgow","12220","Tech Occupation",645,460,180
+"29","Cape Breton","12225","Non Tech Occupation",43900,21235,22410
+"30","Cape Breton","12225","Tech Occupation",1285,900,340
+"31","New Brunswick / Nouveau-Brunswick","13","Non Tech Occupation",364810,187450,177415
+"32","New Brunswick / Nouveau-Brunswick","13","Tech Occupation",12145,9450,2690
+"33","Moncton","13305","Non Tech Occupation",66940,33015,33925
+"34","Moncton","13305","Tech Occupation",3215,2520,720
+"35","Saint John","13310","Non Tech Occupation",59845,29935,29820
+"36","Saint John","13310","Tech Occupation",3175,2340,845
+"37","Fredericton","13320","Non Tech Occupation",45510,22620,22805
+"38","Fredericton","13320","Tech Occupation",2860,2250,635
+"39","Bathurst","13328","Non Tech Occupation",15310,7860,7285
+"40","Bathurst","13328","Tech Occupation",390,330,45
+"41","Miramichi","13329","Non Tech Occupation",11800,5850,5740
+"42","Miramichi","13329","Tech Occupation",260,190,65
+"43","Campbellton","13330","Non Tech Occupation",8260,4045,4070
+"44","Campbellton","13330","Tech Occupation",100,100,0
+"45","Edmundston","13335","Non Tech Occupation",11020,5545,5270
+"46","Edmundston","13335","Tech Occupation",105,80,10
+"47","Quebec / Qu<U+FFFD>bec","24","Non Tech Occupation",3759475,1943740,1815735
+"48","Quebec / Qu<U+FFFD>bec","24","Tech Occupation",170190,136590,33600
+"49","Matane","24403","Non Tech Occupation",7680,3825,3710
+"50","Matane","24403","Tech Occupation",165,120,30
+"51","Rimouski","24404","Non Tech Occupation",23315,11310,11890
+"52","Rimouski","24404","Tech Occupation",1110,895,220
+"53","Rivi<U+FFFD>re-du-Loup","24405","Non Tech Occupation",12590,6275,6020
+"54","Rivi<U+FFFD>re-du-Loup","24405","Tech Occupation",290,205,80
+"55","Baie-Comeau","24406","Non Tech Occupation",15660,8490,6960
+"56","Baie-Comeau","24406","Tech Occupation",375,320,50
+"57","Saguenay","24408","Non Tech Occupation",71310,38180,32825
+"58","Saguenay","24408","Tech Occupation",2425,2055,350
+"59","Alma","24410","Non Tech Occupation",15710,8585,6960
+"60","Alma","24410","Tech Occupation",230,220,10
+"61","Dolbeau-Mistassini","24411","Non Tech Occupation",6720,3620,2845
+"62","Dolbeau-Mistassini","24411","Tech Occupation",50,45,10
+"63","Sept-<U+FFFD>les","24412","Non Tech Occupation",13795,7020,6600
+"64","Sept-<U+FFFD>les","24412","Tech Occupation",345,280,50
+"65","Qu<U+FFFD>bec","24421","Non Tech Occupation",373470,186910,186380
+"66","Qu<U+FFFD>bec","24421","Tech Occupation",22735,17765,4980
+"67","Saint-Georges","24428","Non Tech Occupation",17330,9145,7935
+"68","Saint-Georges","24428","Tech Occupation",245,225,20
+"69","Thetford Mines","24430","Non Tech Occupation",12395,6455,5775
+"70","Thetford Mines","24430","Tech Occupation",210,190,10
+"71","Sherbrooke","24433","Non Tech Occupation",93550,47560,45955
+"72","Sherbrooke","24433","Tech Occupation",3040,2625,425
+"73","Cowansville","24437","Non Tech Occupation",6105,2960,2960
+"74","Cowansville","24437","Tech Occupation",160,120,35
+"75","Victoriaville","24440","Non Tech Occupation",24535,12630,11675
+"76","Victoriaville","24440","Tech Occupation",490,430,70
+"77","Trois-Rivi<U+FFFD>res","24442","Non Tech Occupation",67230,35155,31845
+"78","Trois-Rivi<U+FFFD>res","24442","Tech Occupation",1925,1665,270
+"79","Shawinigan","24444","Non Tech Occupation",23985,12510,11180
+"80","Shawinigan","24444","Tech Occupation",470,420,45
+"81","La Tuque","24446","Non Tech Occupation",6470,3445,2840
+"82","La Tuque","24446","Tech Occupation",100,95,10
+"83","Drummondville","24447","Non Tech Occupation",39130,20820,18135
+"84","Drummondville","24447","Tech Occupation",845,700,105
+"85","Granby","24450","Non Tech Occupation",35610,18430,17155
+"86","Granby","24450","Tech Occupation",1190,910,235
+"87","Saint-Hyacinthe","24452","Non Tech Occupation",29055,14800,14085
+"88","Saint-Hyacinthe","24452","Tech Occupation",655,550,120
+"89","Sorel-Tracy","24454","Non Tech Occupation",22265,11975,10070
+"90","Sorel-Tracy","24454","Tech Occupation",545,500,55
+"91","Joliette","24456","Non Tech Occupation",20590,10300,10145
+"92","Joliette","24456","Tech Occupation",380,290,40
+"93","Saint-Jean-sur-Richelieu","24459","Non Tech Occupation",45095,23070,21805
+"94","Saint-Jean-sur-Richelieu","24459","Tech Occupation",1800,1485,310
+"95","Montr<U+FFFD>al","24462","Non Tech Occupation",1816340,919765,896540
+"96","Montr<U+FFFD>al","24462","Tech Occupation",107645,86270,21360
+"97","Salaberry-de-Valleyfield","24465","Non Tech Occupation",18890,9740,8865
+"98","Salaberry-de-Valleyfield","24465","Tech Occupation",285,175,55
+"99","Lachute","24468","Non Tech Occupation",5445,2690,2510
+"100","Lachute","24468","Tech Occupation",70,75,0
+"101","Val-d'Or","24480","Non Tech Occupation",16075,8485,7395
+"102","Val-d'Or","24480","Tech Occupation",385,315,55
+"103","Amos","24481","Non Tech Occupation",9190,4770,4210
+"104","Amos","24481","Tech Occupation",100,75,15
+"105","Rouyn-Noranda","24485","Non Tech Occupation",19645,10010,9555
+"106","Rouyn-Noranda","24485","Tech Occupation",540,435,75
+"107","Ontario","35","Non Tech Occupation",6131450,3121580,3009910
+"108","Ontario","35","Tech Occupation",342250,264320,77920
+"109","Cornwall","35501","Non Tech Occupation",26430,13315,12795
+"110","Cornwall","35501","Tech Occupation",595,450,95
+"111","Hawkesbury","35502","Non Tech Occupation",5535,2770,2510
+"112","Hawkesbury","35502","Tech Occupation",95,65,0
+"113","Ottawa - Gatineau","35505","Non Tech Occupation",565365,275005,290205
+"114","Ottawa - Gatineau","35505","Tech Occupation",61655,46815,14860
+"115","Brockville","35512","Non Tech Occupation",19185,9675,9330
+"116","Brockville","35512","Tech Occupation",550,425,95
+"117","Pembroke","35515","Non Tech Occupation",10590,5430,5055
+"118","Pembroke","35515","Tech Occupation",205,140,55
+"119","Petawawa","35516","Non Tech Occupation",7810,4435,3180
+"120","Petawawa","35516","Tech Occupation",200,160,20
+"121","Kingston","35521","Non Tech Occupation",75700,37315,38525
+"122","Kingston","35521","Tech Occupation",3275,2520,770
+"123","Belleville","35522","Non Tech Occupation",45075,23100,21870
+"124","Belleville","35522","Tech Occupation",1625,1200,440
+"125","Cobourg","35527","Non Tech Occupation",8400,4060,4055
+"126","Cobourg","35527","Tech Occupation",275,220,30
+"127","Port Hope","35528","Non Tech Occupation",8055,4010,3770
+"128","Port Hope","35528","Tech Occupation",240,145,55
+"129","Peterborough","35529","Non Tech Occupation",58035,28965,28960
+"130","Peterborough","35529","Tech Occupation",1770,1475,320
+"131","Kawartha Lakes","35530","Non Tech Occupation",36575,18995,17275
+"132","Kawartha Lakes","35530","Tech Occupation",695,550,135
+"133","Centre Wellington","35531","Non Tech Occupation",14010,7175,6595
+"134","Centre Wellington","35531","Tech Occupation",405,330,65
+"135","Oshawa","35532","Non Tech Occupation",170180,87375,82730
+"136","Oshawa","35532","Tech Occupation",8665,6460,2180
+"137","Ingersoll","35533","Non Tech Occupation",6470,3290,2955
+"138","Ingersoll","35533","Tech Occupation",95,75,10
+"139","Toronto","35535","Non Tech Occupation",2573380,1297780,1275630
+"140","Toronto","35535","Tech Occupation",185360,142230,43095
+"141","Hamilton","35537","Non Tech Occupation",349445,178395,170890
+"142","Hamilton","35537","Tech Occupation",14500,11645,2890
+"143","St. Catharines - Niagara","35539","Non Tech Occupation",197580,100955,96635
+"144","St. Catharines - Niagara","35539","Tech Occupation",4560,3875,685
+"145","Kitchener","35541","Non Tech Occupation",240755,123265,117485
+"146","Kitchener","35541","Tech Occupation",13785,10730,3035
+"147","Brantford","35543","Non Tech Occupation",65085,33510,31490
+"148","Brantford","35543","Tech Occupation",1545,1245,270
+"149","Woodstock","35544","Non Tech Occupation",18310,9295,8725
+"150","Woodstock","35544","Tech Occupation",475,400,80
+"151","Tillsonburg","35546","Non Tech Occupation",7265,3585,3415
+"152","Tillsonburg","35546","Tech Occupation",90,70,20
+"153","Norfolk","35547","Non Tech Occupation",32185,17115,14970
+"154","Norfolk","35547","Tech Occupation",510,400,100
+"155","Guelph","35550","Non Tech Occupation",69810,35200,34460
+"156","Guelph","35550","Tech Occupation",3065,2440,615
+"157","Stratford","35553","Non Tech Occupation",16615,8260,8225
+"158","Stratford","35553","Tech Occupation",365,280,80
+"159","London","35555","Non Tech Occupation",236195,119730,116305
+"160","London","35555","Tech Occupation",10255,7700,2590
+"161","Chatham-Kent","35556","Non Tech Occupation",55565,28935,26620
+"162","Chatham-Kent","35556","Tech Occupation",1180,985,200
+"163","Leamington","35557","Non Tech Occupation",25425,14090,11040
+"164","Leamington","35557","Tech Occupation",315,270,30
+"165","Windsor","35559","Non Tech Occupation",156305,80860,75450
+"166","Windsor","35559","Tech Occupation",6270,5165,1125
+"167","Sarnia","35562","Non Tech Occupation",43805,22570,21160
+"168","Sarnia","35562","Tech Occupation",1700,1375,265
+"169","Owen Sound","35566","Non Tech Occupation",16155,8155,7835
+"170","Owen Sound","35566","Tech Occupation",475,365,90
+"171","Collingwood","35567","Non Tech Occupation",8465,4110,4195
+"172","Collingwood","35567","Tech Occupation",185,140,30
+"173","Barrie","35568","Non Tech Occupation",94875,48885,46055
+"174","Barrie","35568","Tech Occupation",3160,2575,535
+"175","Orillia","35569","Non Tech Occupation",20100,10135,9805
+"176","Orillia","35569","Tech Occupation",340,275,60
+"177","Midland","35571","Non Tech Occupation",16985,8630,8170
+"178","Midland","35571","Tech Occupation",365,335,40
+"179","North Bay","35575","Non Tech Occupation",30695,15195,15410
+"180","North Bay","35575","Tech Occupation",885,755,170
+"181","Greater Sudbury / Grand Sudbury","35580","Non Tech Occupation",77665,39285,38175
+"182","Greater Sudbury / Grand Sudbury","35580","Tech Occupation",2295,1900,380
+"183","Elliot Lake","35582","Non Tech Occupation",3790,1745,1855
+"184","Elliot Lake","35582","Tech Occupation",40,10,0
+"185","Temiskaming Shores","35584","Non Tech Occupation",6280,3045,3115
+"186","Temiskaming Shores","35584","Tech Occupation",135,135,0
+"187","Timmins","35586","Non Tech Occupation",21790,11370,10275
+"188","Timmins","35586","Tech Occupation",470,390,80
+"189","Sault Ste. Marie","35590","Non Tech Occupation",37815,18580,18925
+"190","Sault Ste. Marie","35590","Tech Occupation",1480,1085,395
+"191","Thunder Bay","35595","Non Tech Occupation",61305,31020,30210
+"192","Thunder Bay","35595","Tech Occupation",1625,1320,305
+"193","Kenora","35598","Non Tech Occupation",8030,3950,3925
+"194","Kenora","35598","Tech Occupation",125,85,50
+"195","Manitoba","46","Non Tech Occupation",583745,302155,281515
+"196","Manitoba","46","Tech Occupation",18465,14660,3820
+"197","Winnipeg","46602","Non Tech Occupation",365035,184605,180590
+"198","Winnipeg","46602","Tech Occupation",15575,12285,3300
+"199","Portage la Prairie","46607","Non Tech Occupation",10155,5115,4810
+"200","Portage la Prairie","46607","Tech Occupation",115,95,20
+"201","Brandon","46610","Non Tech Occupation",26640,13600,12940
+"202","Brandon","46610","Tech Occupation",450,365,75
+"203","Thompson","46640","Non Tech Occupation",7285,3780,3275
+"204","Thompson","46640","Tech Occupation",145,120,45
+"205","Saskatchewan","47","Non Tech Occupation",504640,263995,240710
+"206","Saskatchewan","47","Tech Occupation",12825,10170,2655
+"207","Regina","47705","Non Tech Occupation",104745,52000,52950
+"208","Regina","47705","Tech Occupation",5755,4210,1530
+"209","Yorkton","47710","Non Tech Occupation",8825,4250,4360
+"210","Yorkton","47710","Tech Occupation",245,205,40
+"211","Moose Jaw","47715","Non Tech Occupation",16175,8100,7965
+"212","Moose Jaw","47715","Tech Occupation",425,350,70
+"213","Swift Current","47720","Non Tech Occupation",9080,4660,4140
+"214","Swift Current","47720","Tech Occupation",140,130,10
+"215","Saskatoon","47725","Non Tech Occupation",126765,64160,62450
+"216","Saskatoon","47725","Tech Occupation",4220,3535,670
+"217","North Battleford","47735","Non Tech Occupation",8840,4310,4275
+"218","North Battleford","47735","Tech Occupation",65,45,0
+"219","Prince Albert","47745","Non Tech Occupation",20185,9885,10085
+"220","Prince Albert","47745","Tech Occupation",215,165,15
+"221","Estevan","47750","Non Tech Occupation",6560,3435,2915
+"222","Estevan","47750","Tech Occupation",95,80,10
+"223","Alberta","48","Non Tech Occupation",1840375,972870,867520
+"224","Alberta","48","Tech Occupation",88230,70845,17375
+"225","Medicine Hat","48805","Non Tech Occupation",38670,20920,17705
+"226","Medicine Hat","48805","Tech Occupation",620,535,85
+"227","Brooks","48806","Non Tech Occupation",13480,7845,5545
+"228","Brooks","48806","Tech Occupation",65,55,0
+"229","Lethbridge","48810","Non Tech Occupation",51095,26785,24170
+"230","Lethbridge","48810","Tech Occupation",1140,910,195
+"231","Okotoks","48820","Non Tech Occupation",9460,4810,4570
+"232","Okotoks","48820","Tech Occupation",540,425,65
+"233","Calgary","48825","Non Tech Occupation",604165,310505,293730
+"234","Calgary","48825","Tech Occupation",49300,39445,9855
+"235","Canmore","48828","Non Tech Occupation",7670,3780,3610
+"236","Canmore","48828","Tech Occupation",255,200,45
+"237","Red Deer","48830","Non Tech Occupation",49455,26135,23120
+"238","Red Deer","48830","Tech Occupation",1305,1045,225
+"239","Camrose","48833","Non Tech Occupation",8360,4025,4045
+"240","Camrose","48833","Tech Occupation",175,105,50
+"241","Edmonton","48835","Non Tech Occupation",579180,301710,277435
+"242","Edmonton","48835","Tech Occupation",27300,21885,5430
+"243","Lloydminster","48840","Non Tech Occupation",16060,8730,7085
+"244","Lloydminster","48840","Tech Occupation",315,290,40
+"245","Cold Lake","48845","Non Tech Occupation",7045,3690,3055
+"246","Cold Lake","48845","Tech Occupation",175,145,40
+"247","Grande Prairie","48850","Non Tech Occupation",43695,24395,19145
+"248","Grande Prairie","48850","Tech Occupation",920,755,125
+"249","Wood Buffalo","48860","Non Tech Occupation",32590,18775,13555
+"250","Wood Buffalo","48860","Tech Occupation",1475,1215,215
+"251","Wetaskiwin","48865","Non Tech Occupation",5825,2955,2655
+"252","Wetaskiwin","48865","Tech Occupation",80,70,0
+"253","British Columbia / Colombie-Britannique","59","Non Tech Occupation",2105955,1081840,1024075
+"254","British Columbia / Colombie-Britannique","59","Tech Occupation",87180,69605,17625
+"255","Cranbrook","59905","Non Tech Occupation",12615,6465,5935
+"256","Cranbrook","59905","Tech Occupation",250,175,60
+"257","Penticton","59913","Non Tech Occupation",20640,10415,10050
+"258","Penticton","59913","Tech Occupation",310,270,50
+"259","Kelowna","59915","Non Tech Occupation",83570,42970,40560
+"260","Kelowna","59915","Tech Occupation",2005,1635,365
+"261","Vernon","59918","Non Tech Occupation",26910,13700,13020
+"262","Vernon","59918","Tech Occupation",535,485,30
+"263","Salmon Arm","59920","Non Tech Occupation",7675,3745,3695
+"264","Salmon Arm","59920","Tech Occupation",170,115,55
+"265","Kamloops","59925","Non Tech Occupation",49175,24805,24055
+"266","Kamloops","59925","Tech Occupation",1450,1210,260
+"267","Chilliwack","59930","Non Tech Occupation",39055,20505,18235
+"268","Chilliwack","59930","Tech Occupation",995,640,345
+"269","Abbotsford","59932","Non Tech Occupation",81385,42870,38430
+"270","Abbotsford","59932","Tech Occupation",1770,1425,320
+"271","Vancouver","59933","Non Tech Occupation",1088790,551520,537275
+"272","Vancouver","59933","Tech Occupation",61685,49300,12385
+"273","Squamish","59934","Non Tech Occupation",8710,4540,3990
+"274","Squamish","59934","Tech Occupation",275,175,80
+"275","Victoria","59935","Non Tech Occupation",172015,84720,87285
+"276","Victoria","59935","Tech Occupation",9040,6950,2105
+"277","Duncan","59937","Non Tech Occupation",19420,9770,9460
+"278","Duncan","59937","Tech Occupation",370,315,50
+"279","Nanaimo","59938","Non Tech Occupation",45520,23035,22405
+"280","Nanaimo","59938","Tech Occupation",1180,940,210
+"281","Parksville","59939","Non Tech Occupation",9720,4690,4870
+"282","Parksville","59939","Tech Occupation",230,210,20
+"283","Port Alberni","59940","Non Tech Occupation",11855,6455,5310
+"284","Port Alberni","59940","Tech Occupation",100,70,10
+"285","Courtenay","59943","Non Tech Occupation",23300,11740,11435
+"286","Courtenay","59943","Tech Occupation",405,310,60
+"287","Campbell River","59944","Non Tech Occupation",18485,9615,8565
+"288","Campbell River","59944","Tech Occupation",240,190,30
+"289","Powell River","59945","Non Tech Occupation",7410,3750,3490
+"290","Powell River","59945","Tech Occupation",135,70,25
+"291","Williams Lake","59950","Non Tech Occupation",10135,5325,4635
+"292","Williams Lake","59950","Tech Occupation",135,110,10
+"293","Quesnel","59952","Non Tech Occupation",11825,6435,5140
+"294","Quesnel","59952","Tech Occupation",115,70,30
+"295","Prince Rupert","59955","Non Tech Occupation",6995,3490,3150
+"296","Prince Rupert","59955","Tech Occupation",75,40,10
+"297","Kitimat","59960","Non Tech Occupation",4605,2570,1820
+"298","Kitimat","59960","Tech Occupation",65,50,10
+"299","Terrace","59965","Non Tech Occupation",9325,4730,4375
+"300","Terrace","59965","Tech Occupation",140,95,35
+"301","Prince George","59970","Non Tech Occupation",46480,24455,21975
+"302","Prince George","59970","Tech Occupation",985,735,230
+"303","Dawson Creek","59975","Non Tech Occupation",6095,3065,2785
+"304","Dawson Creek","59975","Tech Occupation",70,35,25
+"305","Fort St. John","59977","Non Tech Occupation",15420,8500,6700
+"306","Fort St. John","59977","Tech Occupation",275,240,10
+"307","Yukon Territory / Territoire du Yukon","60","Non Tech Occupation",18445,9075,9050
+"308","Yukon Territory / Territoire du Yukon","60","Tech Occupation",530,395,150
+"309","Whitehorse","60990","Non Tech Occupation",13805,6625,6970
+"310","Whitehorse","60990","Tech Occupation",495,340,105
+"311","Northwest Territories / Territoires du Nord-Ouest","61","Non Tech Occupation",22695,11885,10730
+"312","Northwest Territories / Territoires du Nord-Ouest","61","Tech Occupation",745,560,135
+"313","Yellowknife","61995","Non Tech Occupation",11555,5865,5515
+"314","Yellowknife","61995","Tech Occupation",530,420,95
+"315","Nunavut","62","Non Tech Occupation",11910,6120,5545
+"316","Nunavut","62","Tech Occupation",195,145,30

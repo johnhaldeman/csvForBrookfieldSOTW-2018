@@ -1,0 +1,2281 @@
+"","GEO.NAME","ALT.GEO.CODE","EDUC15","EDUC15.ID","tech","V1","V2","pct","dum"
+"1","St. John's","10001","No certificate, diploma or
+degree",2,1,10,20,0.314465408805031,0
+"2","St. John's","10001","Secondary (high) school
+diploma or equivalency
+certificate",3,1,320,275,4.32389937106918,0
+"3","St. John's","10001","Apprenticeship or trades
+certificate or diploma",5,1,195,215,3.38050314465409,0
+"4","St. John's","10001","College, CEGEP or other non-
+university certificate or
+diploma",8,1,2245,2160,33.9622641509434,0
+"5","St. John's","10001","University certificate or
+diploma below bachelor level",9,1,205,195,3.06603773584906,0
+"6","St. John's","10001","University certificate,
+diploma or degree at bachelor
+level or above",10,1,3680,3495,54.9528301886792,0
+"7","Bay Roberts","10005","No certificate, diploma or
+degree",2,1,0,0,0,0
+"8","Bay Roberts","10005","Secondary (high) school
+diploma or equivalency
+certificate",3,1,0,10,12.5,0
+"9","Bay Roberts","10005","Apprenticeship or trades
+certificate or diploma",5,1,0,0,0,0
+"10","Bay Roberts","10005","College, CEGEP or other non-
+university certificate or
+diploma",8,1,30,20,25,0
+"11","Bay Roberts","10005","University certificate or
+diploma below bachelor level",9,1,10,10,12.5,0
+"12","Bay Roberts","10005","University certificate,
+diploma or degree at bachelor
+level or above",10,1,35,40,50,0
+"13","Grand Falls-Windsor","10010","No certificate, diploma or
+degree",2,1,0,0,0,0
+"14","Grand Falls-Windsor","10010","Secondary (high) school
+diploma or equivalency
+certificate",3,1,0,20,12.9032258064516,0
+"15","Grand Falls-Windsor","10010","Apprenticeship or trades
+certificate or diploma",5,1,0,10,6.45161290322581,0
+"16","Grand Falls-Windsor","10010","College, CEGEP or other non-
+university certificate or
+diploma",8,1,90,75,48.3870967741936,0
+"17","Grand Falls-Windsor","10010","University certificate or
+diploma below bachelor level",9,1,0,0,0,0
+"18","Grand Falls-Windsor","10010","University certificate,
+diploma or degree at bachelor
+level or above",10,1,45,50,32.258064516129,0
+"19","Gander","10011","No certificate, diploma or
+degree",2,1,10,0,0,0
+"20","Gander","10011","Secondary (high) school
+diploma or equivalency
+certificate",3,1,20,10,10.5263157894737,0
+"21","Gander","10011","Apprenticeship or trades
+certificate or diploma",5,1,10,10,10.5263157894737,0
+"22","Gander","10011","College, CEGEP or other non-
+university certificate or
+diploma",8,1,50,65,68.4210526315789,0
+"23","Gander","10011","University certificate or
+diploma below bachelor level",9,1,0,0,0,0
+"24","Gander","10011","University certificate,
+diploma or degree at bachelor
+level or above",10,1,20,10,10.5263157894737,0
+"25","Corner Brook","10015","No certificate, diploma or
+degree",2,1,0,0,0,0
+"26","Corner Brook","10015","Secondary (high) school
+diploma or equivalency
+certificate",3,1,10,0,0,0
+"27","Corner Brook","10015","Apprenticeship or trades
+certificate or diploma",5,1,20,30,10.3448275862069,0
+"28","Corner Brook","10015","College, CEGEP or other non-
+university certificate or
+diploma",8,1,205,155,53.448275862069,0
+"29","Corner Brook","10015","University certificate or
+diploma below bachelor level",9,1,0,20,6.89655172413793,0
+"30","Corner Brook","10015","University certificate,
+diploma or degree at bachelor
+level or above",10,1,105,85,29.3103448275862,0
+"31","Charlottetown","11105","No certificate, diploma or
+degree",2,1,10,10,0.619195046439629,0
+"32","Charlottetown","11105","Secondary (high) school
+diploma or equivalency
+certificate",3,1,185,145,8.97832817337461,0
+"33","Charlottetown","11105","Apprenticeship or trades
+certificate or diploma",5,1,50,30,1.85758513931889,0
+"34","Charlottetown","11105","College, CEGEP or other non-
+university certificate or
+diploma",8,1,570,555,34.3653250773994,0
+"35","Charlottetown","11105","University certificate or
+diploma below bachelor level",9,1,40,30,1.85758513931889,0
+"36","Charlottetown","11105","University certificate,
+diploma or degree at bachelor
+level or above",10,1,830,845,52.3219814241486,0
+"37","Summerside","11110","No certificate, diploma or
+degree",2,1,0,0,0,0
+"38","Summerside","11110","Secondary (high) school
+diploma or equivalency
+certificate",3,1,40,35,17.9487179487179,0
+"39","Summerside","11110","Apprenticeship or trades
+certificate or diploma",5,1,10,0,0,0
+"40","Summerside","11110","College, CEGEP or other non-
+university certificate or
+diploma",8,1,105,105,53.8461538461538,0
+"41","Summerside","11110","University certificate or
+diploma below bachelor level",9,1,10,10,5.12820512820513,0
+"42","Summerside","11110","University certificate,
+diploma or degree at bachelor
+level or above",10,1,45,45,23.0769230769231,0
+"43","Halifax","12205","No certificate, diploma or
+degree",2,1,85,80,0.625978090766823,0
+"44","Halifax","12205","Secondary (high) school
+diploma or equivalency
+certificate",3,1,1220,1165,9.11580594679186,0
+"45","Halifax","12205","Apprenticeship or trades
+certificate or diploma",5,1,395,385,3.01251956181534,0
+"46","Halifax","12205","College, CEGEP or other non-
+university certificate or
+diploma",8,1,3680,3625,28.3646322378717,0
+"47","Halifax","12205","University certificate or
+diploma below bachelor level",9,1,340,360,2.8169014084507,0
+"48","Halifax","12205","University certificate,
+diploma or degree at bachelor
+level or above",10,1,7475,7165,56.0641627543036,0
+"49","Kentville","12210","No certificate, diploma or
+degree",2,1,20,20,5.33333333333333,0
+"50","Kentville","12210","Secondary (high) school
+diploma or equivalency
+certificate",3,1,65,65,17.3333333333333,0
+"51","Kentville","12210","Apprenticeship or trades
+certificate or diploma",5,1,10,10,2.66666666666667,0
+"52","Kentville","12210","College, CEGEP or other non-
+university certificate or
+diploma",8,1,110,90,24,0
+"53","Kentville","12210","University certificate or
+diploma below bachelor level",9,1,20,20,5.33333333333333,0
+"54","Kentville","12210","University certificate,
+diploma or degree at bachelor
+level or above",10,1,190,170,45.3333333333333,0
+"55","Truro","12215","No certificate, diploma or
+degree",2,1,0,0,0,0
+"56","Truro","12215","Secondary (high) school
+diploma or equivalency
+certificate",3,1,70,60,13.4831460674157,0
+"57","Truro","12215","Apprenticeship or trades
+certificate or diploma",5,1,30,30,6.74157303370786,0
+"58","Truro","12215","College, CEGEP or other non-
+university certificate or
+diploma",8,1,185,165,37.0786516853933,0
+"59","Truro","12215","University certificate or
+diploma below bachelor level",9,1,40,30,6.74157303370786,0
+"60","Truro","12215","University certificate,
+diploma or degree at bachelor
+level or above",10,1,170,160,35.9550561797753,0
+"61","New Glasgow","12220","No certificate, diploma or
+degree",2,1,0,0,0,0
+"62","New Glasgow","12220","Secondary (high) school
+diploma or equivalency
+certificate",3,1,60,55,14.4736842105263,0
+"63","New Glasgow","12220","Apprenticeship or trades
+certificate or diploma",5,1,10,20,5.26315789473684,0
+"64","New Glasgow","12220","College, CEGEP or other non-
+university certificate or
+diploma",8,1,135,140,36.8421052631579,0
+"65","New Glasgow","12220","University certificate or
+diploma below bachelor level",9,1,0,0,0,0
+"66","New Glasgow","12220","University certificate,
+diploma or degree at bachelor
+level or above",10,1,165,165,43.4210526315789,0
+"67","Cape Breton","12225","No certificate, diploma or
+degree",2,1,40,30,3.87096774193548,0
+"68","Cape Breton","12225","Secondary (high) school
+diploma or equivalency
+certificate",3,1,120,105,13.5483870967742,0
+"69","Cape Breton","12225","Apprenticeship or trades
+certificate or diploma",5,1,65,65,8.38709677419355,0
+"70","Cape Breton","12225","College, CEGEP or other non-
+university certificate or
+diploma",8,1,285,265,34.1935483870968,0
+"71","Cape Breton","12225","University certificate or
+diploma below bachelor level",9,1,95,70,9.03225806451613,0
+"72","Cape Breton","12225","University certificate,
+diploma or degree at bachelor
+level or above",10,1,310,240,30.9677419354839,0
+"73","Moncton","13305","No certificate, diploma or
+degree",2,1,0,0,0,0
+"74","Moncton","13305","Secondary (high) school
+diploma or equivalency
+certificate",3,1,395,340,10.2719033232628,0
+"75","Moncton","13305","Apprenticeship or trades
+certificate or diploma",5,1,20,25,0.755287009063444,0
+"76","Moncton","13305","College, CEGEP or other non-
+university certificate or
+diploma",8,1,1545,1455,43.9577039274924,0
+"77","Moncton","13305","University certificate or
+diploma below bachelor level",9,1,70,60,1.81268882175227,0
+"78","Moncton","13305","University certificate,
+diploma or degree at bachelor
+level or above",10,1,1430,1430,43.202416918429,0
+"79","Saint John","13310","No certificate, diploma or
+degree",2,1,30,20,0.610687022900763,0
+"80","Saint John","13310","Secondary (high) school
+diploma or equivalency
+certificate",3,1,440,440,13.4351145038168,0
+"81","Saint John","13310","Apprenticeship or trades
+certificate or diploma",5,1,100,75,2.29007633587786,0
+"82","Saint John","13310","College, CEGEP or other non-
+university certificate or
+diploma",8,1,1140,1100,33.587786259542,0
+"83","Saint John","13310","University certificate or
+diploma below bachelor level",9,1,90,65,1.98473282442748,0
+"84","Saint John","13310","University certificate,
+diploma or degree at bachelor
+level or above",10,1,1605,1575,48.0916030534351,0
+"85","Fredericton","13320","No certificate, diploma or
+degree",2,1,0,0,0,0
+"86","Fredericton","13320","Secondary (high) school
+diploma or equivalency
+certificate",3,1,395,360,9.66442953020134,0
+"87","Fredericton","13320","Apprenticeship or trades
+certificate or diploma",5,1,65,75,2.01342281879195,0
+"88","Fredericton","13320","College, CEGEP or other non-
+university certificate or
+diploma",8,1,940,925,24.8322147651007,0
+"89","Fredericton","13320","University certificate or
+diploma below bachelor level",9,1,50,30,0.805369127516778,0
+"90","Fredericton","13320","University certificate,
+diploma or degree at bachelor
+level or above",10,1,2440,2335,62.6845637583893,0
+"91","Bathurst","13328","No certificate, diploma or
+degree",2,1,0,0,0,0
+"92","Bathurst","13328","Secondary (high) school
+diploma or equivalency
+certificate",3,1,20,10,2.98507462686567,0
+"93","Bathurst","13328","Apprenticeship or trades
+certificate or diploma",5,1,0,20,5.97014925373134,0
+"94","Bathurst","13328","College, CEGEP or other non-
+university certificate or
+diploma",8,1,200,195,58.2089552238806,0
+"95","Bathurst","13328","University certificate or
+diploma below bachelor level",9,1,0,0,0,0
+"96","Bathurst","13328","University certificate,
+diploma or degree at bachelor
+level or above",10,1,110,110,32.8358208955224,0
+"97","Miramichi","13329","No certificate, diploma or
+degree",2,1,0,0,0,0
+"98","Miramichi","13329","Secondary (high) school
+diploma or equivalency
+certificate",3,1,30,35,14.2857142857143,0
+"99","Miramichi","13329","Apprenticeship or trades
+certificate or diploma",5,1,20,10,4.08163265306122,0
+"100","Miramichi","13329","College, CEGEP or other non-
+university certificate or
+diploma",8,1,105,120,48.9795918367347,0
+"101","Miramichi","13329","University certificate or
+diploma below bachelor level",9,1,0,0,0,0
+"102","Miramichi","13329","University certificate,
+diploma or degree at bachelor
+level or above",10,1,35,80,32.6530612244898,0
+"103","Campbellton","13330","No certificate, diploma or
+degree",2,1,0,0,0,0
+"104","Campbellton","13330","Secondary (high) school
+diploma or equivalency
+certificate",3,1,10,0,0,0
+"105","Campbellton","13330","Apprenticeship or trades
+certificate or diploma",5,1,0,0,0,0
+"106","Campbellton","13330","College, CEGEP or other non-
+university certificate or
+diploma",8,1,50,45,81.8181818181818,0
+"107","Campbellton","13330","University certificate or
+diploma below bachelor level",9,1,0,0,0,0
+"108","Campbellton","13330","University certificate,
+diploma or degree at bachelor
+level or above",10,1,30,10,18.1818181818182,0
+"109","Edmundston","13335","No certificate, diploma or
+degree",2,1,0,0,0,0
+"110","Edmundston","13335","Secondary (high) school
+diploma or equivalency
+certificate",3,1,10,20,9.52380952380952,0
+"111","Edmundston","13335","Apprenticeship or trades
+certificate or diploma",5,1,40,10,4.76190476190476,0
+"112","Edmundston","13335","College, CEGEP or other non-
+university certificate or
+diploma",8,1,80,80,38.0952380952381,0
+"113","Edmundston","13335","University certificate or
+diploma below bachelor level",9,1,0,0,0,0
+"114","Edmundston","13335","University certificate,
+diploma or degree at bachelor
+level or above",10,1,85,100,47.6190476190476,0
+"115","Matane","24403","No certificate, diploma or
+degree",2,1,0,0,0,0
+"116","Matane","24403","Secondary (high) school
+diploma or equivalency
+certificate",3,1,20,20,11.4285714285714,0
+"117","Matane","24403","Apprenticeship or trades
+certificate or diploma",5,1,20,10,5.71428571428571,0
+"118","Matane","24403","College, CEGEP or other non-
+university certificate or
+diploma",8,1,100,110,62.8571428571429,0
+"119","Matane","24403","University certificate or
+diploma below bachelor level",9,1,0,0,0,0
+"120","Matane","24403","University certificate,
+diploma or degree at bachelor
+level or above",10,1,15,35,20,0
+"121","Rimouski","24404","No certificate, diploma or
+degree",2,1,20,10,0.847457627118644,0
+"122","Rimouski","24404","Secondary (high) school
+diploma or equivalency
+certificate",3,1,75,75,6.35593220338983,0
+"123","Rimouski","24404","Apprenticeship or trades
+certificate or diploma",5,1,135,135,11.4406779661017,0
+"124","Rimouski","24404","College, CEGEP or other non-
+university certificate or
+diploma",8,1,535,530,44.9152542372881,0
+"125","Rimouski","24404","University certificate or
+diploma below bachelor level",9,1,60,55,4.66101694915254,0
+"126","Rimouski","24404","University certificate,
+diploma or degree at bachelor
+level or above",10,1,400,375,31.7796610169492,0
+"127","Rivière-du-Loup","24405","No certificate, diploma or
+degree",2,1,0,0,0,0
+"128","Rivière-du-Loup","24405","Secondary (high) school
+diploma or equivalency
+certificate",3,1,50,60,15.3846153846154,0
+"129","Rivière-du-Loup","24405","Apprenticeship or trades
+certificate or diploma",5,1,85,95,24.3589743589744,0
+"130","Rivière-du-Loup","24405","College, CEGEP or other non-
+university certificate or
+diploma",8,1,140,115,29.4871794871795,0
+"131","Rivière-du-Loup","24405","University certificate or
+diploma below bachelor level",9,1,20,10,2.56410256410256,0
+"132","Rivière-du-Loup","24405","University certificate,
+diploma or degree at bachelor
+level or above",10,1,110,110,28.2051282051282,0
+"133","Baie-Comeau","24406","No certificate, diploma or
+degree",2,1,0,0,0,0
+"134","Baie-Comeau","24406","Secondary (high) school
+diploma or equivalency
+certificate",3,1,10,10,2.5974025974026,0
+"135","Baie-Comeau","24406","Apprenticeship or trades
+certificate or diploma",5,1,50,40,10.3896103896104,0
+"136","Baie-Comeau","24406","College, CEGEP or other non-
+university certificate or
+diploma",8,1,165,160,41.5584415584416,0
+"137","Baie-Comeau","24406","University certificate or
+diploma below bachelor level",9,1,10,10,2.5974025974026,0
+"138","Baie-Comeau","24406","University certificate,
+diploma or degree at bachelor
+level or above",10,1,190,165,42.8571428571429,0
+"139","Saguenay","24408","No certificate, diploma or
+degree",2,1,20,40,1.23839009287926,0
+"140","Saguenay","24408","Secondary (high) school
+diploma or equivalency
+certificate",3,1,190,180,5.57275541795666,0
+"141","Saguenay","24408","Apprenticeship or trades
+certificate or diploma",5,1,240,235,7.27554179566563,0
+"142","Saguenay","24408","College, CEGEP or other non-
+university certificate or
+diploma",8,1,1235,1240,38.390092879257,0
+"143","Saguenay","24408","University certificate or
+diploma below bachelor level",9,1,115,115,3.56037151702786,0
+"144","Saguenay","24408","University certificate,
+diploma or degree at bachelor
+level or above",10,1,1460,1420,43.9628482972136,0
+"145","Alma","24410","No certificate, diploma or
+degree",2,1,10,10,2.22222222222222,0
+"146","Alma","24410","Secondary (high) school
+diploma or equivalency
+certificate",3,1,20,10,2.22222222222222,0
+"147","Alma","24410","Apprenticeship or trades
+certificate or diploma",5,1,70,50,11.1111111111111,0
+"148","Alma","24410","College, CEGEP or other non-
+university certificate or
+diploma",8,1,185,230,51.1111111111111,0
+"149","Alma","24410","University certificate or
+diploma below bachelor level",9,1,10,20,4.44444444444444,0
+"150","Alma","24410","University certificate,
+diploma or degree at bachelor
+level or above",10,1,120,130,28.8888888888889,0
+"151","Dolbeau-Mistassini","24411","No certificate, diploma or
+degree",2,1,0,0,0,0
+"152","Dolbeau-Mistassini","24411","Secondary (high) school
+diploma or equivalency
+certificate",3,1,10,20,23.5294117647059,0
+"153","Dolbeau-Mistassini","24411","Apprenticeship or trades
+certificate or diploma",5,1,0,0,0,0
+"154","Dolbeau-Mistassini","24411","College, CEGEP or other non-
+university certificate or
+diploma",8,1,40,20,23.5294117647059,0
+"155","Dolbeau-Mistassini","24411","University certificate or
+diploma below bachelor level",9,1,10,20,23.5294117647059,0
+"156","Dolbeau-Mistassini","24411","University certificate,
+diploma or degree at bachelor
+level or above",10,1,30,25,29.4117647058824,0
+"157","Sept-Îles","24412","No certificate, diploma or
+degree",2,1,0,0,0,0
+"158","Sept-Îles","24412","Secondary (high) school
+diploma or equivalency
+certificate",3,1,20,20,4.70588235294118,0
+"159","Sept-Îles","24412","Apprenticeship or trades
+certificate or diploma",5,1,20,40,9.41176470588235,0
+"160","Sept-Îles","24412","College, CEGEP or other non-
+university certificate or
+diploma",8,1,205,210,49.4117647058824,0
+"161","Sept-Îles","24412","University certificate or
+diploma below bachelor level",9,1,10,0,0,0
+"162","Sept-Îles","24412","University certificate,
+diploma or degree at bachelor
+level or above",10,1,155,155,36.4705882352941,0
+"163","Québec","24421","No certificate, diploma or
+degree",2,1,135,135,0.471451021477213,0
+"164","Québec","24421","Secondary (high) school
+diploma or equivalency
+certificate",3,1,1555,1515,5.29072812991095,0
+"165","Québec","24421","Apprenticeship or trades
+certificate or diploma",5,1,1870,1805,6.30347476863978,0
+"166","Québec","24421","College, CEGEP or other non-
+university certificate or
+diploma",8,1,10155,9950,34.747686397765,0
+"167","Québec","24421","University certificate or
+diploma below bachelor level",9,1,1245,1210,4.22559804435132,0
+"168","Québec","24421","University certificate,
+diploma or degree at bachelor
+level or above",10,1,14295,14020,48.9610616378558,0
+"169","Sainte-Marie","24423","No certificate, diploma or
+degree",2,1,0,0,0,0
+"170","Sainte-Marie","24423","Secondary (high) school
+diploma or equivalency
+certificate",3,1,10,10,3.77358490566038,0
+"171","Sainte-Marie","24423","Apprenticeship or trades
+certificate or diploma",5,1,65,40,15.0943396226415,0
+"172","Sainte-Marie","24423","College, CEGEP or other non-
+university certificate or
+diploma",8,1,65,75,28.3018867924528,0
+"173","Sainte-Marie","24423","University certificate or
+diploma below bachelor level",9,1,30,10,3.77358490566038,0
+"174","Sainte-Marie","24423","University certificate,
+diploma or degree at bachelor
+level or above",10,1,145,130,49.0566037735849,0
+"175","Saint-Georges","24428","No certificate, diploma or
+degree",2,1,0,0,0,0
+"176","Saint-Georges","24428","Secondary (high) school
+diploma or equivalency
+certificate",3,1,20,0,0,0
+"177","Saint-Georges","24428","Apprenticeship or trades
+certificate or diploma",5,1,60,60,13.7931034482759,0
+"178","Saint-Georges","24428","College, CEGEP or other non-
+university certificate or
+diploma",8,1,210,230,52.8735632183908,0
+"179","Saint-Georges","24428","University certificate or
+diploma below bachelor level",9,1,10,10,2.29885057471264,0
+"180","Saint-Georges","24428","University certificate,
+diploma or degree at bachelor
+level or above",10,1,125,135,31.0344827586207,0
+"181","Thetford Mines","24430","No certificate, diploma or
+degree",2,1,0,0,0,0
+"182","Thetford Mines","24430","Secondary (high) school
+diploma or equivalency
+certificate",3,1,40,30,11.5384615384615,0
+"183","Thetford Mines","24430","Apprenticeship or trades
+certificate or diploma",5,1,25,35,13.4615384615385,0
+"184","Thetford Mines","24430","College, CEGEP or other non-
+university certificate or
+diploma",8,1,130,120,46.1538461538462,0
+"185","Thetford Mines","24430","University certificate or
+diploma below bachelor level",9,1,0,0,0,0
+"186","Thetford Mines","24430","University certificate,
+diploma or degree at bachelor
+level or above",10,1,90,75,28.8461538461538,0
+"187","Sherbrooke","24433","No certificate, diploma or
+degree",2,1,30,20,0.451467268623025,0
+"188","Sherbrooke","24433","Secondary (high) school
+diploma or equivalency
+certificate",3,1,295,310,6.99774266365688,0
+"189","Sherbrooke","24433","Apprenticeship or trades
+certificate or diploma",5,1,355,335,7.56207674943567,0
+"190","Sherbrooke","24433","College, CEGEP or other non-
+university certificate or
+diploma",8,1,1570,1560,35.2144469525959,0
+"191","Sherbrooke","24433","University certificate or
+diploma below bachelor level",9,1,140,120,2.70880361173815,0
+"192","Sherbrooke","24433","University certificate,
+diploma or degree at bachelor
+level or above",10,1,2115,2085,47.0654627539503,0
+"193","Cowansville","24437","No certificate, diploma or
+degree",2,1,0,0,0,0
+"194","Cowansville","24437","Secondary (high) school
+diploma or equivalency
+certificate",3,1,30,30,30,0
+"195","Cowansville","24437","Apprenticeship or trades
+certificate or diploma",5,1,0,0,0,0
+"196","Cowansville","24437","College, CEGEP or other non-
+university certificate or
+diploma",8,1,30,30,30,0
+"197","Cowansville","24437","University certificate or
+diploma below bachelor level",9,1,10,0,0,0
+"198","Cowansville","24437","University certificate,
+diploma or degree at bachelor
+level or above",10,1,20,40,40,0
+"199","Victoriaville","24440","No certificate, diploma or
+degree",2,1,10,10,1.61290322580645,0
+"200","Victoriaville","24440","Secondary (high) school
+diploma or equivalency
+certificate",3,1,90,80,12.9032258064516,0
+"201","Victoriaville","24440","Apprenticeship or trades
+certificate or diploma",5,1,65,60,9.67741935483871,0
+"202","Victoriaville","24440","College, CEGEP or other non-
+university certificate or
+diploma",8,1,265,240,38.7096774193548,0
+"203","Victoriaville","24440","University certificate or
+diploma below bachelor level",9,1,0,20,3.2258064516129,0
+"204","Victoriaville","24440","University certificate,
+diploma or degree at bachelor
+level or above",10,1,225,210,33.8709677419355,0
+"205","Trois-Rivières","24442","No certificate, diploma or
+degree",2,1,30,40,1.51228733459357,0
+"206","Trois-Rivières","24442","Secondary (high) school
+diploma or equivalency
+certificate",3,1,190,185,6.99432892249527,0
+"207","Trois-Rivières","24442","Apprenticeship or trades
+certificate or diploma",5,1,315,295,11.1531190926276,0
+"208","Trois-Rivières","24442","College, CEGEP or other non-
+university certificate or
+diploma",8,1,1005,970,36.6729678638941,0
+"209","Trois-Rivières","24442","University certificate or
+diploma below bachelor level",9,1,110,100,3.78071833648393,0
+"210","Trois-Rivières","24442","University certificate,
+diploma or degree at bachelor
+level or above",10,1,1080,1055,39.8865784499055,0
+"211","Shawinigan","24444","No certificate, diploma or
+degree",2,1,10,20,3.7037037037037,0
+"212","Shawinigan","24444","Secondary (high) school
+diploma or equivalency
+certificate",3,1,85,65,12.037037037037,0
+"213","Shawinigan","24444","Apprenticeship or trades
+certificate or diploma",5,1,65,65,12.037037037037,0
+"214","Shawinigan","24444","College, CEGEP or other non-
+university certificate or
+diploma",8,1,190,195,36.1111111111111,0
+"215","Shawinigan","24444","University certificate or
+diploma below bachelor level",9,1,10,20,3.7037037037037,0
+"216","Shawinigan","24444","University certificate,
+diploma or degree at bachelor
+level or above",10,1,180,175,32.4074074074074,0
+"217","Drummondville","24447","No certificate, diploma or
+degree",2,1,10,30,2.16606498194946,0
+"218","Drummondville","24447","Secondary (high) school
+diploma or equivalency
+certificate",3,1,80,60,4.33212996389892,0
+"219","Drummondville","24447","Apprenticeship or trades
+certificate or diploma",5,1,165,140,10.1083032490975,0
+"220","Drummondville","24447","College, CEGEP or other non-
+university certificate or
+diploma",8,1,625,610,44.043321299639,0
+"221","Drummondville","24447","University certificate or
+diploma below bachelor level",9,1,10,40,2.88808664259928,0
+"222","Drummondville","24447","University certificate,
+diploma or degree at bachelor
+level or above",10,1,505,505,36.4620938628159,0
+"223","Granby","24450","No certificate, diploma or
+degree",2,1,10,0,0,0
+"224","Granby","24450","Secondary (high) school
+diploma or equivalency
+certificate",3,1,160,195,12.5806451612903,0
+"225","Granby","24450","Apprenticeship or trades
+certificate or diploma",5,1,105,75,4.83870967741935,0
+"226","Granby","24450","College, CEGEP or other non-
+university certificate or
+diploma",8,1,590,580,37.4193548387097,0
+"227","Granby","24450","University certificate or
+diploma below bachelor level",9,1,30,40,2.58064516129032,0
+"228","Granby","24450","University certificate,
+diploma or degree at bachelor
+level or above",10,1,670,660,42.5806451612903,0
+"229","Saint-Hyacinthe","24452","No certificate, diploma or
+degree",2,1,25,20,2.96296296296296,0
+"230","Saint-Hyacinthe","24452","Secondary (high) school
+diploma or equivalency
+certificate",3,1,65,60,8.88888888888889,0
+"231","Saint-Hyacinthe","24452","Apprenticeship or trades
+certificate or diploma",5,1,25,45,6.66666666666667,0
+"232","Saint-Hyacinthe","24452","College, CEGEP or other non-
+university certificate or
+diploma",8,1,315,320,47.4074074074074,0
+"233","Saint-Hyacinthe","24452","University certificate or
+diploma below bachelor level",9,1,50,10,1.48148148148148,0
+"234","Saint-Hyacinthe","24452","University certificate,
+diploma or degree at bachelor
+level or above",10,1,205,220,32.5925925925926,0
+"235","Sorel-Tracy","24454","No certificate, diploma or
+degree",2,1,20,20,3.88349514563107,0
+"236","Sorel-Tracy","24454","Secondary (high) school
+diploma or equivalency
+certificate",3,1,20,20,3.88349514563107,0
+"237","Sorel-Tracy","24454","Apprenticeship or trades
+certificate or diploma",5,1,30,40,7.76699029126214,0
+"238","Sorel-Tracy","24454","College, CEGEP or other non-
+university certificate or
+diploma",8,1,235,185,35.9223300970874,0
+"239","Sorel-Tracy","24454","University certificate or
+diploma below bachelor level",9,1,30,30,5.8252427184466,0
+"240","Sorel-Tracy","24454","University certificate,
+diploma or degree at bachelor
+level or above",10,1,240,220,42.7184466019417,0
+"241","Joliette","24456","No certificate, diploma or
+degree",2,1,30,10,1.86915887850467,0
+"242","Joliette","24456","Secondary (high) school
+diploma or equivalency
+certificate",3,1,45,75,14.018691588785,0
+"243","Joliette","24456","Apprenticeship or trades
+certificate or diploma",5,1,50,70,13.0841121495327,0
+"244","Joliette","24456","College, CEGEP or other non-
+university certificate or
+diploma",8,1,145,140,26.1682242990654,0
+"245","Joliette","24456","University certificate or
+diploma below bachelor level",9,1,20,30,5.60747663551402,0
+"246","Joliette","24456","University certificate,
+diploma or degree at bachelor
+level or above",10,1,230,210,39.2523364485981,0
+"247","Montréal","24462","No certificate, diploma or
+degree",2,1,1000,965,0.712861047499446,0
+"248","Montréal","24462","Secondary (high) school
+diploma or equivalency
+certificate",3,1,9585,9180,6.78141390263722,0
+"249","Montréal","24462","Apprenticeship or trades
+certificate or diploma",5,1,7575,7265,5.3667725493093,0
+"250","Montréal","24462","College, CEGEP or other non-
+university certificate or
+diploma",8,1,33535,32420,23.9491763315358,0
+"251","Montréal","24462","University certificate or
+diploma below bachelor level",9,1,6495,6280,4.63913717958189,0
+"252","Montréal","24462","University certificate,
+diploma or degree at bachelor
+level or above",10,1,82005,79260,58.5506389894364,0
+"253","Salaberry-de-Valleyfield","24465","No certificate, diploma or
+degree",2,1,0,0,0,0
+"254","Salaberry-de-Valleyfield","24465","Secondary (high) school
+diploma or equivalency
+certificate",3,1,30,50,12.1951219512195,0
+"255","Salaberry-de-Valleyfield","24465","Apprenticeship or trades
+certificate or diploma",5,1,30,30,7.31707317073171,0
+"256","Salaberry-de-Valleyfield","24465","College, CEGEP or other non-
+university certificate or
+diploma",8,1,190,165,40.2439024390244,0
+"257","Salaberry-de-Valleyfield","24465","University certificate or
+diploma below bachelor level",9,1,10,20,4.8780487804878,0
+"258","Salaberry-de-Valleyfield","24465","University certificate,
+diploma or degree at bachelor
+level or above",10,1,135,145,35.3658536585366,0
+"259","Lachute","24468","No certificate, diploma or
+degree",2,1,0,0,0,0
+"260","Lachute","24468","Secondary (high) school
+diploma or equivalency
+certificate",3,1,0,0,0,0
+"261","Lachute","24468","Apprenticeship or trades
+certificate or diploma",5,1,10,30,37.5,0
+"262","Lachute","24468","College, CEGEP or other non-
+university certificate or
+diploma",8,1,10,30,37.5,0
+"263","Lachute","24468","University certificate or
+diploma below bachelor level",9,1,10,10,12.5,0
+"264","Lachute","24468","University certificate,
+diploma or degree at bachelor
+level or above",10,1,10,10,12.5,0
+"265","Val-d'Or","24480","No certificate, diploma or
+degree",2,1,10,0,0,0
+"266","Val-d'Or","24480","Secondary (high) school
+diploma or equivalency
+certificate",3,1,95,60,12.3711340206186,0
+"267","Val-d'Or","24480","Apprenticeship or trades
+certificate or diploma",5,1,50,40,8.24742268041237,0
+"268","Val-d'Or","24480","College, CEGEP or other non-
+university certificate or
+diploma",8,1,140,160,32.9896907216495,0
+"269","Val-d'Or","24480","University certificate or
+diploma below bachelor level",9,1,40,30,6.18556701030928,0
+"270","Val-d'Or","24480","University certificate,
+diploma or degree at bachelor
+level or above",10,1,225,195,40.2061855670103,0
+"271","Rouyn-Noranda","24485","No certificate, diploma or
+degree",2,1,0,10,1.61290322580645,0
+"272","Rouyn-Noranda","24485","Secondary (high) school
+diploma or equivalency
+certificate",3,1,40,40,6.45161290322581,0
+"273","Rouyn-Noranda","24485","Apprenticeship or trades
+certificate or diploma",5,1,10,10,1.61290322580645,0
+"274","Rouyn-Noranda","24485","College, CEGEP or other non-
+university certificate or
+diploma",8,1,225,215,34.6774193548387,0
+"275","Rouyn-Noranda","24485","University certificate or
+diploma below bachelor level",9,1,30,35,5.64516129032258,0
+"276","Rouyn-Noranda","24485","University certificate,
+diploma or degree at bachelor
+level or above",10,1,350,310,50,0
+"277","Cornwall","35501","No certificate, diploma or
+degree",2,1,10,0,0,0
+"278","Cornwall","35501","Secondary (high) school
+diploma or equivalency
+certificate",3,1,135,125,22.5225225225225,0
+"279","Cornwall","35501","Apprenticeship or trades
+certificate or diploma",5,1,45,15,2.7027027027027,0
+"280","Cornwall","35501","College, CEGEP or other non-
+university certificate or
+diploma",8,1,325,305,54.954954954955,0
+"281","Cornwall","35501","University certificate or
+diploma below bachelor level",9,1,0,0,0,0
+"282","Cornwall","35501","University certificate,
+diploma or degree at bachelor
+level or above",10,1,115,110,19.8198198198198,0
+"283","Hawkesbury","35502","No certificate, diploma or
+degree",2,1,0,0,0,0
+"284","Hawkesbury","35502","Secondary (high) school
+diploma or equivalency
+certificate",3,1,20,30,27.2727272727273,0
+"285","Hawkesbury","35502","Apprenticeship or trades
+certificate or diploma",5,1,0,0,0,0
+"286","Hawkesbury","35502","College, CEGEP or other non-
+university certificate or
+diploma",8,1,30,40,36.3636363636364,0
+"287","Hawkesbury","35502","University certificate or
+diploma below bachelor level",9,1,10,10,9.09090909090909,0
+"288","Hawkesbury","35502","University certificate,
+diploma or degree at bachelor
+level or above",10,1,50,30,27.2727272727273,0
+"289","Ottawa - Gatineau","35505","No certificate, diploma or
+degree",2,1,310,305,0.452622987311716,0
+"290","Ottawa - Gatineau","35505","Secondary (high) school
+diploma or equivalency
+certificate",3,1,6510,6185,9.17860057876382,0
+"291","Ottawa - Gatineau","35505","Apprenticeship or trades
+certificate or diploma",5,1,1320,1300,1.92921273280404,0
+"292","Ottawa - Gatineau","35505","College, CEGEP or other non-
+university certificate or
+diploma",8,1,17860,17475,25.9330711582696,0
+"293","Ottawa - Gatineau","35505","University certificate or
+diploma below bachelor level",9,1,1495,1455,2.15923425094606,0
+"294","Ottawa - Gatineau","35505","University certificate,
+diploma or degree at bachelor
+level or above",10,1,41900,40665,60.3472582919047,0
+"295","Arnprior","35507","No certificate, diploma or
+degree",2,1,0,0,0,0
+"296","Arnprior","35507","Secondary (high) school
+diploma or equivalency
+certificate",3,1,80,70,18.1818181818182,0
+"297","Arnprior","35507","Apprenticeship or trades
+certificate or diploma",5,1,20,10,2.5974025974026,0
+"298","Arnprior","35507","College, CEGEP or other non-
+university certificate or
+diploma",8,1,155,175,45.4545454545455,0
+"299","Arnprior","35507","University certificate or
+diploma below bachelor level",9,1,30,20,5.19480519480519,0
+"300","Arnprior","35507","University certificate,
+diploma or degree at bachelor
+level or above",10,1,135,110,28.5714285714286,0
+"301","Carleton Place","35509","No certificate, diploma or
+degree",2,1,0,0,0,0
+"302","Carleton Place","35509","Secondary (high) school
+diploma or equivalency
+certificate",3,1,220,230,19.7424892703863,0
+"303","Carleton Place","35509","Apprenticeship or trades
+certificate or diploma",5,1,35,45,3.86266094420601,0
+"304","Carleton Place","35509","College, CEGEP or other non-
+university certificate or
+diploma",8,1,415,415,35.6223175965665,0
+"305","Carleton Place","35509","University certificate or
+diploma below bachelor level",9,1,30,10,0.858369098712446,0
+"306","Carleton Place","35509","University certificate,
+diploma or degree at bachelor
+level or above",10,1,500,465,39.9141630901288,0
+"307","Brockville","35512","No certificate, diploma or
+degree",2,1,0,0,0,0
+"308","Brockville","35512","Secondary (high) school
+diploma or equivalency
+certificate",3,1,90,105,21.6494845360825,0
+"309","Brockville","35512","Apprenticeship or trades
+certificate or diploma",5,1,30,20,4.12371134020619,0
+"310","Brockville","35512","College, CEGEP or other non-
+university certificate or
+diploma",8,1,220,190,39.1752577319588,0
+"311","Brockville","35512","University certificate or
+diploma below bachelor level",9,1,0,0,0,0
+"312","Brockville","35512","University certificate,
+diploma or degree at bachelor
+level or above",10,1,185,170,35.0515463917526,0
+"313","Pembroke","35515","No certificate, diploma or
+degree",2,1,0,0,0,0
+"314","Pembroke","35515","Secondary (high) school
+diploma or equivalency
+certificate",3,1,40,40,16.6666666666667,0
+"315","Pembroke","35515","Apprenticeship or trades
+certificate or diploma",5,1,0,0,0,0
+"316","Pembroke","35515","College, CEGEP or other non-
+university certificate or
+diploma",8,1,90,75,31.25,0
+"317","Pembroke","35515","University certificate or
+diploma below bachelor level",9,1,0,10,4.16666666666667,0
+"318","Pembroke","35515","University certificate,
+diploma or degree at bachelor
+level or above",10,1,115,115,47.9166666666667,0
+"319","Petawawa","35516","No certificate, diploma or
+degree",2,1,0,10,3.125,0
+"320","Petawawa","35516","Secondary (high) school
+diploma or equivalency
+certificate",3,1,70,55,17.1875,0
+"321","Petawawa","35516","Apprenticeship or trades
+certificate or diploma",5,1,20,30,9.375,0
+"322","Petawawa","35516","College, CEGEP or other non-
+university certificate or
+diploma",8,1,75,85,26.5625,0
+"323","Petawawa","35516","University certificate or
+diploma below bachelor level",9,1,0,0,0,0
+"324","Petawawa","35516","University certificate,
+diploma or degree at bachelor
+level or above",10,1,125,140,43.75,0
+"325","Kingston","35521","No certificate, diploma or
+degree",2,1,20,20,0.60882800608828,0
+"326","Kingston","35521","Secondary (high) school
+diploma or equivalency
+certificate",3,1,450,455,13.8508371385084,0
+"327","Kingston","35521","Apprenticeship or trades
+certificate or diploma",5,1,110,85,2.58751902587519,0
+"328","Kingston","35521","College, CEGEP or other non-
+university certificate or
+diploma",8,1,1160,1155,35.1598173515982,0
+"329","Kingston","35521","University certificate or
+diploma below bachelor level",9,1,70,35,1.06544901065449,0
+"330","Kingston","35521","University certificate,
+diploma or degree at bachelor
+level or above",10,1,1530,1535,46.7275494672755,0
+"331","Belleville","35522","No certificate, diploma or
+degree",2,1,20,10,0.727272727272727,0
+"332","Belleville","35522","Secondary (high) school
+diploma or equivalency
+certificate",3,1,290,320,23.2727272727273,0
+"333","Belleville","35522","Apprenticeship or trades
+certificate or diploma",5,1,70,55,4,0
+"334","Belleville","35522","College, CEGEP or other non-
+university certificate or
+diploma",8,1,545,545,39.6363636363636,0
+"335","Belleville","35522","University certificate or
+diploma below bachelor level",9,1,30,10,0.727272727272727,0
+"336","Belleville","35522","University certificate,
+diploma or degree at bachelor
+level or above",10,1,410,435,31.6363636363636,0
+"337","Cobourg","35527","No certificate, diploma or
+degree",2,1,0,0,0,0
+"338","Cobourg","35527","Secondary (high) school
+diploma or equivalency
+certificate",3,1,20,20,19.047619047619,0
+"339","Cobourg","35527","Apprenticeship or trades
+certificate or diploma",5,1,0,0,0,0
+"340","Cobourg","35527","College, CEGEP or other non-
+university certificate or
+diploma",8,1,70,40,38.0952380952381,0
+"341","Cobourg","35527","University certificate or
+diploma below bachelor level",9,1,10,0,0,0
+"342","Cobourg","35527","University certificate,
+diploma or degree at bachelor
+level or above",10,1,50,45,42.8571428571429,0
+"343","Port Hope","35528","No certificate, diploma or
+degree",2,1,0,0,0,0
+"344","Port Hope","35528","Secondary (high) school
+diploma or equivalency
+certificate",3,1,40,50,25,0
+"345","Port Hope","35528","Apprenticeship or trades
+certificate or diploma",5,1,0,0,0,0
+"346","Port Hope","35528","College, CEGEP or other non-
+university certificate or
+diploma",8,1,65,85,42.5,0
+"347","Port Hope","35528","University certificate or
+diploma below bachelor level",9,1,0,0,0,0
+"348","Port Hope","35528","University certificate,
+diploma or degree at bachelor
+level or above",10,1,60,65,32.5,0
+"349","Peterborough","35529","No certificate, diploma or
+degree",2,1,30,35,1.81347150259067,0
+"350","Peterborough","35529","Secondary (high) school
+diploma or equivalency
+certificate",3,1,325,280,14.5077720207254,0
+"351","Peterborough","35529","Apprenticeship or trades
+certificate or diploma",5,1,70,65,3.36787564766839,0
+"352","Peterborough","35529","College, CEGEP or other non-
+university certificate or
+diploma",8,1,735,710,36.7875647668394,0
+"353","Peterborough","35529","University certificate or
+diploma below bachelor level",9,1,30,10,0.518134715025907,0
+"354","Peterborough","35529","University certificate,
+diploma or degree at bachelor
+level or above",10,1,870,830,43.0051813471503,0
+"355","Kawartha Lakes","35530","No certificate, diploma or
+degree",2,1,0,10,1.32450331125828,0
+"356","Kawartha Lakes","35530","Secondary (high) school
+diploma or equivalency
+certificate",3,1,145,115,15.2317880794702,0
+"357","Kawartha Lakes","35530","Apprenticeship or trades
+certificate or diploma",5,1,45,40,5.29801324503311,0
+"358","Kawartha Lakes","35530","College, CEGEP or other non-
+university certificate or
+diploma",8,1,340,355,47.0198675496689,0
+"359","Kawartha Lakes","35530","University certificate or
+diploma below bachelor level",9,1,60,60,7.94701986754967,0
+"360","Kawartha Lakes","35530","University certificate,
+diploma or degree at bachelor
+level or above",10,1,170,175,23.1788079470199,0
+"361","Centre Wellington","35531","No certificate, diploma or
+degree",2,1,0,0,0,0
+"362","Centre Wellington","35531","Secondary (high) school
+diploma or equivalency
+certificate",3,1,100,55,13.2530120481928,0
+"363","Centre Wellington","35531","Apprenticeship or trades
+certificate or diploma",5,1,20,20,4.81927710843374,0
+"364","Centre Wellington","35531","College, CEGEP or other non-
+university certificate or
+diploma",8,1,175,150,36.144578313253,0
+"365","Centre Wellington","35531","University certificate or
+diploma below bachelor level",9,1,0,0,0,0
+"366","Centre Wellington","35531","University certificate,
+diploma or degree at bachelor
+level or above",10,1,180,190,45.7831325301205,0
+"367","Oshawa","35532","No certificate, diploma or
+degree",2,1,160,130,1.37857900318134,0
+"368","Oshawa","35532","Secondary (high) school
+diploma or equivalency
+certificate",3,1,1515,1460,15.4825026511135,0
+"369","Oshawa","35532","Apprenticeship or trades
+certificate or diploma",5,1,275,245,2.59809119830329,0
+"370","Oshawa","35532","College, CEGEP or other non-
+university certificate or
+diploma",8,1,3415,3255,34.5174973488865,0
+"371","Oshawa","35532","University certificate or
+diploma below bachelor level",9,1,285,325,3.44644750795334,0
+"372","Oshawa","35532","University certificate,
+diploma or degree at bachelor
+level or above",10,1,4155,4015,42.576882290562,0
+"373","Ingersoll","35533","No certificate, diploma or
+degree",2,1,0,10,6.06060606060606,0
+"374","Ingersoll","35533","Secondary (high) school
+diploma or equivalency
+certificate",3,1,10,20,12.1212121212121,0
+"375","Ingersoll","35533","Apprenticeship or trades
+certificate or diploma",5,1,0,0,0,0
+"376","Ingersoll","35533","College, CEGEP or other non-
+university certificate or
+diploma",8,1,45,80,48.4848484848485,0
+"377","Ingersoll","35533","University certificate or
+diploma below bachelor level",9,1,0,0,0,0
+"378","Ingersoll","35533","University certificate,
+diploma or degree at bachelor
+level or above",10,1,50,55,33.3333333333333,0
+"379","Toronto","35535","No certificate, diploma or
+degree",2,1,1380,1245,0.544476515350302,0
+"380","Toronto","35535","Secondary (high) school
+diploma or equivalency
+certificate",3,1,20855,19640,8.58917169596781,0
+"381","Toronto","35535","Apprenticeship or trades
+certificate or diploma",5,1,2680,2555,1.11737951543777,0
+"382","Toronto","35535","College, CEGEP or other non-
+university certificate or
+diploma",8,1,41240,39955,17.4735415026677,0
+"383","Toronto","35535","University certificate or
+diploma below bachelor level",9,1,7260,7005,3.06350039359748,0
+"384","Toronto","35535","University certificate,
+diploma or degree at bachelor
+level or above",10,1,164475,158260,69.2119303769789,0
+"385","Hamilton","35537","No certificate, diploma or
+degree",2,1,165,140,0.798175598631699,0
+"386","Hamilton","35537","Secondary (high) school
+diploma or equivalency
+certificate",3,1,2415,2295,13.0843785632839,0
+"387","Hamilton","35537","Apprenticeship or trades
+certificate or diploma",5,1,345,335,1.90992018244014,0
+"388","Hamilton","35537","College, CEGEP or other non-
+university certificate or
+diploma",8,1,6010,5815,33.1527936145952,0
+"389","Hamilton","35537","University certificate or
+diploma below bachelor level",9,1,460,400,2.28050171037628,0
+"390","Hamilton","35537","University certificate,
+diploma or degree at bachelor
+level or above",10,1,8820,8555,48.7742303306728,0
+"391","St. Catharines - Niagara","35539","No certificate, diploma or
+degree",2,1,65,85,1.53846153846154,0
+"392","St. Catharines - Niagara","35539","Secondary (high) school
+diploma or equivalency
+certificate",3,1,905,865,15.6561085972851,0
+"393","St. Catharines - Niagara","35539","Apprenticeship or trades
+certificate or diploma",5,1,215,200,3.61990950226244,0
+"394","St. Catharines - Niagara","35539","College, CEGEP or other non-
+university certificate or
+diploma",8,1,2165,2080,37.6470588235294,0
+"395","St. Catharines - Niagara","35539","University certificate or
+diploma below bachelor level",9,1,175,170,3.07692307692308,0
+"396","St. Catharines - Niagara","35539","University certificate,
+diploma or degree at bachelor
+level or above",10,1,2185,2125,38.4615384615385,0
+"397","Kitchener - Cambridge - Waterloo","35541","No certificate, diploma or
+degree",2,1,160,155,0.808344198174707,0
+"398","Kitchener - Cambridge - Waterloo","35541","Secondary (high) school
+diploma or equivalency
+certificate",3,1,2265,2150,11.2125162972621,0
+"399","Kitchener - Cambridge - Waterloo","35541","Apprenticeship or trades
+certificate or diploma",5,1,290,290,1.51238591916558,0
+"400","Kitchener - Cambridge - Waterloo","35541","College, CEGEP or other non-
+university certificate or
+diploma",8,1,4845,4700,24.5110821382008,0
+"401","Kitchener - Cambridge - Waterloo","35541","University certificate or
+diploma below bachelor level",9,1,440,425,2.21642764015645,0
+"402","Kitchener - Cambridge - Waterloo","35541","University certificate,
+diploma or degree at bachelor
+level or above",10,1,11900,11455,59.7392438070404,0
+"403","Brantford","35543","No certificate, diploma or
+degree",2,1,0,10,0.547945205479452,0
+"404","Brantford","35543","Secondary (high) school
+diploma or equivalency
+certificate",3,1,355,335,18.3561643835616,0
+"405","Brantford","35543","Apprenticeship or trades
+certificate or diploma",5,1,70,50,2.73972602739726,0
+"406","Brantford","35543","College, CEGEP or other non-
+university certificate or
+diploma",8,1,875,895,49.041095890411,0
+"407","Brantford","35543","University certificate or
+diploma below bachelor level",9,1,45,50,2.73972602739726,0
+"408","Brantford","35543","University certificate,
+diploma or degree at bachelor
+level or above",10,1,540,485,26.5753424657534,0
+"409","Woodstock","35544","No certificate, diploma or
+degree",2,1,20,10,2.22222222222222,0
+"410","Woodstock","35544","Secondary (high) school
+diploma or equivalency
+certificate",3,1,85,95,21.1111111111111,0
+"411","Woodstock","35544","Apprenticeship or trades
+certificate or diploma",5,1,0,10,2.22222222222222,0
+"412","Woodstock","35544","College, CEGEP or other non-
+university certificate or
+diploma",8,1,180,210,46.6666666666667,0
+"413","Woodstock","35544","University certificate or
+diploma below bachelor level",9,1,0,0,0,0
+"414","Woodstock","35544","University certificate,
+diploma or degree at bachelor
+level or above",10,1,140,125,27.7777777777778,0
+"415","Tillsonburg","35546","No certificate, diploma or
+degree",2,1,0,0,0,0
+"416","Tillsonburg","35546","Secondary (high) school
+diploma or equivalency
+certificate",3,1,20,10,8.33333333333333,0
+"417","Tillsonburg","35546","Apprenticeship or trades
+certificate or diploma",5,1,10,0,0,0
+"418","Tillsonburg","35546","College, CEGEP or other non-
+university certificate or
+diploma",8,1,95,70,58.3333333333333,0
+"419","Tillsonburg","35546","University certificate or
+diploma below bachelor level",9,1,0,0,0,0
+"420","Tillsonburg","35546","University certificate,
+diploma or degree at bachelor
+level or above",10,1,50,40,33.3333333333333,0
+"421","Norfolk","35547","No certificate, diploma or
+degree",2,1,10,20,4.25531914893617,0
+"422","Norfolk","35547","Secondary (high) school
+diploma or equivalency
+certificate",3,1,90,60,12.7659574468085,0
+"423","Norfolk","35547","Apprenticeship or trades
+certificate or diploma",5,1,20,10,2.12765957446809,0
+"424","Norfolk","35547","College, CEGEP or other non-
+university certificate or
+diploma",8,1,250,265,56.3829787234043,0
+"425","Norfolk","35547","University certificate or
+diploma below bachelor level",9,1,0,20,4.25531914893617,0
+"426","Norfolk","35547","University certificate,
+diploma or degree at bachelor
+level or above",10,1,125,95,20.2127659574468,0
+"427","Guelph","35550","No certificate, diploma or
+degree",2,1,30,30,0.807537012113055,0
+"428","Guelph","35550","Secondary (high) school
+diploma or equivalency
+certificate",3,1,435,430,11.5746971736205,0
+"429","Guelph","35550","Apprenticeship or trades
+certificate or diploma",5,1,40,55,1.48048452220727,0
+"430","Guelph","35550","College, CEGEP or other non-
+university certificate or
+diploma",8,1,870,825,22.207267833109,0
+"431","Guelph","35550","University certificate or
+diploma below bachelor level",9,1,115,110,2.96096904441454,0
+"432","Guelph","35550","University certificate,
+diploma or degree at bachelor
+level or above",10,1,2320,2265,60.9690444145357,0
+"433","Stratford","35553","No certificate, diploma or
+degree",2,1,10,0,0,0
+"434","Stratford","35553","Secondary (high) school
+diploma or equivalency
+certificate",3,1,130,120,23.5294117647059,0
+"435","Stratford","35553","Apprenticeship or trades
+certificate or diploma",5,1,20,10,1.96078431372549,0
+"436","Stratford","35553","College, CEGEP or other non-
+university certificate or
+diploma",8,1,215,190,37.2549019607843,0
+"437","Stratford","35553","University certificate or
+diploma below bachelor level",9,1,10,0,0,0
+"438","Stratford","35553","University certificate,
+diploma or degree at bachelor
+level or above",10,1,205,190,37.2549019607843,0
+"439","London","35555","No certificate, diploma or
+degree",2,1,80,85,0.805687203791469,0
+"440","London","35555","Secondary (high) school
+diploma or equivalency
+certificate",3,1,1410,1345,12.7488151658768,0
+"441","London","35555","Apprenticeship or trades
+certificate or diploma",5,1,255,275,2.60663507109005,0
+"442","London","35555","College, CEGEP or other non-
+university certificate or
+diploma",8,1,3870,3730,35.3554502369668,0
+"443","London","35555","University certificate or
+diploma below bachelor level",9,1,155,135,1.27962085308057,0
+"444","London","35555","University certificate,
+diploma or degree at bachelor
+level or above",10,1,5190,4980,47.2037914691943,0
+"445","Chatham-Kent","35556","No certificate, diploma or
+degree",2,1,0,0,0,0
+"446","Chatham-Kent","35556","Secondary (high) school
+diploma or equivalency
+certificate",3,1,220,215,19.1964285714286,0
+"447","Chatham-Kent","35556","Apprenticeship or trades
+certificate or diploma",5,1,40,40,3.57142857142857,0
+"448","Chatham-Kent","35556","College, CEGEP or other non-
+university certificate or
+diploma",8,1,540,530,47.3214285714286,0
+"449","Chatham-Kent","35556","University certificate or
+diploma below bachelor level",9,1,20,20,1.78571428571429,0
+"450","Chatham-Kent","35556","University certificate,
+diploma or degree at bachelor
+level or above",10,1,355,315,28.125,0
+"451","Leamington","35557","No certificate, diploma or
+degree",2,1,0,0,0,0
+"452","Leamington","35557","Secondary (high) school
+diploma or equivalency
+certificate",3,1,85,65,17.1052631578947,0
+"453","Leamington","35557","Apprenticeship or trades
+certificate or diploma",5,1,30,10,2.63157894736842,0
+"454","Leamington","35557","College, CEGEP or other non-
+university certificate or
+diploma",8,1,140,135,35.5263157894737,0
+"455","Leamington","35557","University certificate or
+diploma below bachelor level",9,1,10,10,2.63157894736842,0
+"456","Leamington","35557","University certificate,
+diploma or degree at bachelor
+level or above",10,1,140,160,42.1052631578947,0
+"457","Windsor","35559","No certificate, diploma or
+degree",2,1,50,50,0.726216412490922,0
+"458","Windsor","35559","Secondary (high) school
+diploma or equivalency
+certificate",3,1,585,530,7.69789397240378,0
+"459","Windsor","35559","Apprenticeship or trades
+certificate or diploma",5,1,220,190,2.7596223674655,0
+"460","Windsor","35559","College, CEGEP or other non-
+university certificate or
+diploma",8,1,1765,1730,25.1270878721859,0
+"461","Windsor","35559","University certificate or
+diploma below bachelor level",9,1,160,155,2.25127087872186,0
+"462","Windsor","35559","University certificate,
+diploma or degree at bachelor
+level or above",10,1,4330,4230,61.437908496732,0
+"463","Sarnia","35562","No certificate, diploma or
+degree",2,1,0,0,0,0
+"464","Sarnia","35562","Secondary (high) school
+diploma or equivalency
+certificate",3,1,120,110,5.89812332439678,0
+"465","Sarnia","35562","Apprenticeship or trades
+certificate or diploma",5,1,75,50,2.68096514745308,0
+"466","Sarnia","35562","College, CEGEP or other non-
+university certificate or
+diploma",8,1,695,705,37.8016085790885,0
+"467","Sarnia","35562","University certificate or
+diploma below bachelor level",9,1,30,25,1.34048257372654,0
+"468","Sarnia","35562","University certificate,
+diploma or degree at bachelor
+level or above",10,1,960,975,52.2788203753351,0
+"469","Wasaga Beach","35565","No certificate, diploma or
+degree",2,1,0,0,0,0
+"470","Wasaga Beach","35565","Secondary (high) school
+diploma or equivalency
+certificate",3,1,40,40,18.1818181818182,0
+"471","Wasaga Beach","35565","Apprenticeship or trades
+certificate or diploma",5,1,10,15,6.81818181818182,0
+"472","Wasaga Beach","35565","College, CEGEP or other non-
+university certificate or
+diploma",8,1,105,80,36.3636363636364,0
+"473","Wasaga Beach","35565","University certificate or
+diploma below bachelor level",9,1,0,0,0,0
+"474","Wasaga Beach","35565","University certificate,
+diploma or degree at bachelor
+level or above",10,1,60,85,38.6363636363636,0
+"475","Owen Sound","35566","No certificate, diploma or
+degree",2,1,0,0,0,0
+"476","Owen Sound","35566","Secondary (high) school
+diploma or equivalency
+certificate",3,1,95,70,22.5806451612903,0
+"477","Owen Sound","35566","Apprenticeship or trades
+certificate or diploma",5,1,25,25,8.06451612903226,0
+"478","Owen Sound","35566","College, CEGEP or other non-
+university certificate or
+diploma",8,1,95,100,32.258064516129,0
+"479","Owen Sound","35566","University certificate or
+diploma below bachelor level",9,1,10,20,6.45161290322581,0
+"480","Owen Sound","35566","University certificate,
+diploma or degree at bachelor
+level or above",10,1,115,95,30.6451612903226,0
+"481","Collingwood","35567","No certificate, diploma or
+degree",2,1,0,0,0,0
+"482","Collingwood","35567","Secondary (high) school
+diploma or equivalency
+certificate",3,1,30,30,12.5,0
+"483","Collingwood","35567","Apprenticeship or trades
+certificate or diploma",5,1,0,0,0,0
+"484","Collingwood","35567","College, CEGEP or other non-
+university certificate or
+diploma",8,1,55,90,37.5,0
+"485","Collingwood","35567","University certificate or
+diploma below bachelor level",9,1,0,0,0,0
+"486","Collingwood","35567","University certificate,
+diploma or degree at bachelor
+level or above",10,1,145,120,50,0
+"487","Barrie","35568","No certificate, diploma or
+degree",2,1,60,60,1.59786950732357,0
+"488","Barrie","35568","Secondary (high) school
+diploma or equivalency
+certificate",3,1,855,780,20.7723035952064,0
+"489","Barrie","35568","Apprenticeship or trades
+certificate or diploma",5,1,120,90,2.39680426098535,0
+"490","Barrie","35568","College, CEGEP or other non-
+university certificate or
+diploma",8,1,1605,1530,40.745672436751,0
+"491","Barrie","35568","University certificate or
+diploma below bachelor level",9,1,95,90,2.39680426098535,0
+"492","Barrie","35568","University certificate,
+diploma or degree at bachelor
+level or above",10,1,1215,1205,32.0905459387483,0
+"493","Orillia","35569","No certificate, diploma or
+degree",2,1,10,10,3.84615384615385,0
+"494","Orillia","35569","Secondary (high) school
+diploma or equivalency
+certificate",3,1,80,75,28.8461538461538,0
+"495","Orillia","35569","Apprenticeship or trades
+certificate or diploma",5,1,0,0,0,0
+"496","Orillia","35569","College, CEGEP or other non-
+university certificate or
+diploma",8,1,110,125,48.0769230769231,0
+"497","Orillia","35569","University certificate or
+diploma below bachelor level",9,1,0,0,0,0
+"498","Orillia","35569","University certificate,
+diploma or degree at bachelor
+level or above",10,1,75,50,19.2307692307692,0
+"499","Midland","35571","No certificate, diploma or
+degree",2,1,0,10,2.7027027027027,0
+"500","Midland","35571","Secondary (high) school
+diploma or equivalency
+certificate",3,1,50,50,13.5135135135135,0
+"501","Midland","35571","Apprenticeship or trades
+certificate or diploma",5,1,10,20,5.40540540540541,0
+"502","Midland","35571","College, CEGEP or other non-
+university certificate or
+diploma",8,1,170,185,50,0
+"503","Midland","35571","University certificate or
+diploma below bachelor level",9,1,10,10,2.7027027027027,0
+"504","Midland","35571","University certificate,
+diploma or degree at bachelor
+level or above",10,1,115,95,25.6756756756757,0
+"505","North Bay","35575","No certificate, diploma or
+degree",2,1,20,20,1.8957345971564,0
+"506","North Bay","35575","Secondary (high) school
+diploma or equivalency
+certificate",3,1,165,110,10.4265402843602,0
+"507","North Bay","35575","Apprenticeship or trades
+certificate or diploma",5,1,45,45,4.2654028436019,0
+"508","North Bay","35575","College, CEGEP or other non-
+university certificate or
+diploma",8,1,500,480,45.4976303317536,0
+"509","North Bay","35575","University certificate or
+diploma below bachelor level",9,1,20,10,0.947867298578199,0
+"510","North Bay","35575","University certificate,
+diploma or degree at bachelor
+level or above",10,1,425,390,36.9668246445498,0
+"511","Greater Sudbury","35580","No certificate, diploma or
+degree",2,1,30,30,1.21703853955375,0
+"512","Greater Sudbury","35580","Secondary (high) school
+diploma or equivalency
+certificate",3,1,230,210,8.51926977687627,0
+"513","Greater Sudbury","35580","Apprenticeship or trades
+certificate or diploma",5,1,55,75,3.04259634888438,0
+"514","Greater Sudbury","35580","College, CEGEP or other non-
+university certificate or
+diploma",8,1,905,895,36.3083164300203,0
+"515","Greater Sudbury","35580","University certificate or
+diploma below bachelor level",9,1,10,50,2.02839756592292,0
+"516","Greater Sudbury","35580","University certificate,
+diploma or degree at bachelor
+level or above",10,1,1260,1205,48.8843813387424,0
+"517","Elliot Lake","35582","No certificate, diploma or
+degree",2,1,10,0,0,0
+"518","Elliot Lake","35582","Secondary (high) school
+diploma or equivalency
+certificate",3,1,10,10,14.2857142857143,0
+"519","Elliot Lake","35582","Apprenticeship or trades
+certificate or diploma",5,1,10,10,14.2857142857143,0
+"520","Elliot Lake","35582","College, CEGEP or other non-
+university certificate or
+diploma",8,1,20,30,42.8571428571429,0
+"521","Elliot Lake","35582","University certificate or
+diploma below bachelor level",9,1,0,0,0,0
+"522","Elliot Lake","35582","University certificate,
+diploma or degree at bachelor
+level or above",10,1,30,20,28.5714285714286,0
+"523","Timmins","35586","No certificate, diploma or
+degree",2,1,30,30,6.89655172413793,0
+"524","Timmins","35586","Secondary (high) school
+diploma or equivalency
+certificate",3,1,105,60,13.7931034482759,0
+"525","Timmins","35586","Apprenticeship or trades
+certificate or diploma",5,1,10,20,4.59770114942529,0
+"526","Timmins","35586","College, CEGEP or other non-
+university certificate or
+diploma",8,1,200,175,40.2298850574713,0
+"527","Timmins","35586","University certificate or
+diploma below bachelor level",9,1,0,0,0,0
+"528","Timmins","35586","University certificate,
+diploma or degree at bachelor
+level or above",10,1,180,150,34.4827586206897,0
+"529","Sault Ste. Marie","35590","No certificate, diploma or
+degree",2,1,0,10,0.851063829787234,1
+"530","Sault Ste. Marie","35590","Secondary (high) school
+diploma or equivalency
+certificate",3,1,145,160,13.6170212765957,1
+"531","Sault Ste. Marie","35590","Apprenticeship or trades
+certificate or diploma",5,1,35,45,3.82978723404255,1
+"532","Sault Ste. Marie","35590","College, CEGEP or other non-
+university certificate or
+diploma",8,1,530,505,42.9787234042553,1
+"533","Sault Ste. Marie","35590","University certificate or
+diploma below bachelor level",9,1,40,40,3.40425531914894,1
+"534","Sault Ste. Marie","35590","University certificate,
+diploma or degree at bachelor
+level or above",10,1,475,415,35.3191489361702,1
+"535","Thunder Bay","35595","No certificate, diploma or
+degree",2,1,0,0,0,0
+"536","Thunder Bay","35595","Secondary (high) school
+diploma or equivalency
+certificate",3,1,250,245,13.6490250696379,0
+"537","Thunder Bay","35595","Apprenticeship or trades
+certificate or diploma",5,1,10,40,2.22841225626741,0
+"538","Thunder Bay","35595","College, CEGEP or other non-
+university certificate or
+diploma",8,1,630,610,33.983286908078,0
+"539","Thunder Bay","35595","University certificate or
+diploma below bachelor level",9,1,60,40,2.22841225626741,0
+"540","Thunder Bay","35595","University certificate,
+diploma or degree at bachelor
+level or above",10,1,865,860,47.9108635097493,0
+"541","Kenora","35598","No certificate, diploma or
+degree",2,1,0,10,6.25,0
+"542","Kenora","35598","Secondary (high) school
+diploma or equivalency
+certificate",3,1,30,50,31.25,0
+"543","Kenora","35598","Apprenticeship or trades
+certificate or diploma",5,1,10,0,0,0
+"544","Kenora","35598","College, CEGEP or other non-
+university certificate or
+diploma",8,1,85,65,40.625,0
+"545","Kenora","35598","University certificate or
+diploma below bachelor level",9,1,0,0,0,0
+"546","Kenora","35598","University certificate,
+diploma or degree at bachelor
+level or above",10,1,45,35,21.875,0
+"547","Winnipeg","46602","No certificate, diploma or
+degree",2,1,160,175,0.99403578528827,0
+"548","Winnipeg","46602","Secondary (high) school
+diploma or equivalency
+certificate",3,1,2190,2085,11.8432263561488,0
+"549","Winnipeg","46602","Apprenticeship or trades
+certificate or diploma",5,1,530,545,3.09571144561204,0
+"550","Winnipeg","46602","College, CEGEP or other non-
+university certificate or
+diploma",8,1,5425,5275,29.9630786708322,0
+"551","Winnipeg","46602","University certificate or
+diploma below bachelor level",9,1,585,560,3.18091451292247,0
+"552","Winnipeg","46602","University certificate,
+diploma or degree at bachelor
+level or above",10,1,9200,8965,50.9230332291962,0
+"553","Winkler","46603","No certificate, diploma or
+degree",2,1,0,0,0,0
+"554","Winkler","46603","Secondary (high) school
+diploma or equivalency
+certificate",3,1,30,50,24.390243902439,0
+"555","Winkler","46603","Apprenticeship or trades
+certificate or diploma",5,1,10,0,0,0
+"556","Winkler","46603","College, CEGEP or other non-
+university certificate or
+diploma",8,1,70,80,39.0243902439024,0
+"557","Winkler","46603","University certificate or
+diploma below bachelor level",9,1,20,10,4.8780487804878,0
+"558","Winkler","46603","University certificate,
+diploma or degree at bachelor
+level or above",10,1,55,65,31.7073170731707,0
+"559","Steinbach","46605","No certificate, diploma or
+degree",2,1,0,0,0,0
+"560","Steinbach","46605","Secondary (high) school
+diploma or equivalency
+certificate",3,1,10,20,25,0
+"561","Steinbach","46605","Apprenticeship or trades
+certificate or diploma",5,1,0,0,0,0
+"562","Steinbach","46605","College, CEGEP or other non-
+university certificate or
+diploma",8,1,60,20,25,0
+"563","Steinbach","46605","University certificate or
+diploma below bachelor level",9,1,0,0,0,0
+"564","Steinbach","46605","University certificate,
+diploma or degree at bachelor
+level or above",10,1,40,40,50,0
+"565","Portage la Prairie","46607","No certificate, diploma or
+degree",2,1,0,0,0,0
+"566","Portage la Prairie","46607","Secondary (high) school
+diploma or equivalency
+certificate",3,1,20,10,9.52380952380952,0
+"567","Portage la Prairie","46607","Apprenticeship or trades
+certificate or diploma",5,1,10,10,9.52380952380952,0
+"568","Portage la Prairie","46607","College, CEGEP or other non-
+university certificate or
+diploma",8,1,40,45,42.8571428571429,0
+"569","Portage la Prairie","46607","University certificate or
+diploma below bachelor level",9,1,0,0,0,0
+"570","Portage la Prairie","46607","University certificate,
+diploma or degree at bachelor
+level or above",10,1,50,40,38.0952380952381,0
+"571","Brandon","46610","No certificate, diploma or
+degree",2,1,15,15,2.72727272727273,0
+"572","Brandon","46610","Secondary (high) school
+diploma or equivalency
+certificate",3,1,130,130,23.6363636363636,0
+"573","Brandon","46610","Apprenticeship or trades
+certificate or diploma",5,1,30,40,7.27272727272727,0
+"574","Brandon","46610","College, CEGEP or other non-
+university certificate or
+diploma",8,1,180,155,28.1818181818182,0
+"575","Brandon","46610","University certificate or
+diploma below bachelor level",9,1,0,10,1.81818181818182,0
+"576","Brandon","46610","University certificate,
+diploma or degree at bachelor
+level or above",10,1,180,200,36.3636363636364,0
+"577","Thompson","46640","No certificate, diploma or
+degree",2,1,0,10,5.55555555555556,0
+"578","Thompson","46640","Secondary (high) school
+diploma or equivalency
+certificate",3,1,30,40,22.2222222222222,0
+"579","Thompson","46640","Apprenticeship or trades
+certificate or diploma",5,1,10,10,5.55555555555556,0
+"580","Thompson","46640","College, CEGEP or other non-
+university certificate or
+diploma",8,1,20,20,11.1111111111111,0
+"581","Thompson","46640","University certificate or
+diploma below bachelor level",9,1,20,10,5.55555555555556,0
+"582","Thompson","46640","University certificate,
+diploma or degree at bachelor
+level or above",10,1,75,90,50,0
+"583","Regina","47705","No certificate, diploma or
+degree",2,1,15,10,0.138985406532314,0
+"584","Regina","47705","Secondary (high) school
+diploma or equivalency
+certificate",3,1,1010,985,13.6900625434329,0
+"585","Regina","47705","Apprenticeship or trades
+certificate or diploma",5,1,180,200,2.77970813064628,0
+"586","Regina","47705","College, CEGEP or other non-
+university certificate or
+diploma",8,1,1800,1795,24.9478804725504,0
+"587","Regina","47705","University certificate or
+diploma below bachelor level",9,1,350,330,4.58651841556637,0
+"588","Regina","47705","University certificate,
+diploma or degree at bachelor
+level or above",10,1,3970,3875,53.8568450312717,0
+"589","Yorkton","47710","No certificate, diploma or
+degree",2,1,0,0,0,0
+"590","Yorkton","47710","Secondary (high) school
+diploma or equivalency
+certificate",3,1,30,30,26.0869565217391,0
+"591","Yorkton","47710","Apprenticeship or trades
+certificate or diploma",5,1,0,0,0,0
+"592","Yorkton","47710","College, CEGEP or other non-
+university certificate or
+diploma",8,1,40,45,39.1304347826087,0
+"593","Yorkton","47710","University certificate or
+diploma below bachelor level",9,1,0,0,0,0
+"594","Yorkton","47710","University certificate,
+diploma or degree at bachelor
+level or above",10,1,60,40,34.7826086956522,0
+"595","Moose Jaw","47715","No certificate, diploma or
+degree",2,1,0,20,5.33333333333333,0
+"596","Moose Jaw","47715","Secondary (high) school
+diploma or equivalency
+certificate",3,1,65,45,12,0
+"597","Moose Jaw","47715","Apprenticeship or trades
+certificate or diploma",5,1,50,50,13.3333333333333,0
+"598","Moose Jaw","47715","College, CEGEP or other non-
+university certificate or
+diploma",8,1,135,125,33.3333333333333,0
+"599","Moose Jaw","47715","University certificate or
+diploma below bachelor level",9,1,20,20,5.33333333333333,0
+"600","Moose Jaw","47715","University certificate,
+diploma or degree at bachelor
+level or above",10,1,140,115,30.6666666666667,0
+"601","Swift Current","47720","No certificate, diploma or
+degree",2,1,0,0,0,0
+"602","Swift Current","47720","Secondary (high) school
+diploma or equivalency
+certificate",3,1,25,25,23.8095238095238,0
+"603","Swift Current","47720","Apprenticeship or trades
+certificate or diploma",5,1,0,10,9.52380952380952,0
+"604","Swift Current","47720","College, CEGEP or other non-
+university certificate or
+diploma",8,1,45,50,47.6190476190476,0
+"605","Swift Current","47720","University certificate or
+diploma below bachelor level",9,1,0,0,0,0
+"606","Swift Current","47720","University certificate,
+diploma or degree at bachelor
+level or above",10,1,30,20,19.047619047619,0
+"607","Saskatoon","47725","No certificate, diploma or
+degree",2,1,20,40,0.674536256323777,0
+"608","Saskatoon","47725","Secondary (high) school
+diploma or equivalency
+certificate",3,1,735,645,10.8768971332209,0
+"609","Saskatoon","47725","Apprenticeship or trades
+certificate or diploma",5,1,200,185,3.11973018549747,0
+"610","Saskatoon","47725","College, CEGEP or other non-
+university certificate or
+diploma",8,1,1480,1435,24.1989881956155,0
+"611","Saskatoon","47725","University certificate or
+diploma below bachelor level",9,1,155,120,2.02360876897133,0
+"612","Saskatoon","47725","University certificate,
+diploma or degree at bachelor
+level or above",10,1,3690,3505,59.106239460371,0
+"613","North Battleford","47735","No certificate, diploma or
+degree",2,1,0,0,0,0
+"614","North Battleford","47735","Secondary (high) school
+diploma or equivalency
+certificate",3,1,40,30,37.5,0
+"615","North Battleford","47735","Apprenticeship or trades
+certificate or diploma",5,1,0,20,25,0
+"616","North Battleford","47735","College, CEGEP or other non-
+university certificate or
+diploma",8,1,30,20,25,0
+"617","North Battleford","47735","University certificate or
+diploma below bachelor level",9,1,0,0,0,0
+"618","North Battleford","47735","University certificate,
+diploma or degree at bachelor
+level or above",10,1,50,10,12.5,0
+"619","Prince Albert","47745","No certificate, diploma or
+degree",2,1,10,0,0,0
+"620","Prince Albert","47745","Secondary (high) school
+diploma or equivalency
+certificate",3,1,55,55,18.6440677966102,0
+"621","Prince Albert","47745","Apprenticeship or trades
+certificate or diploma",5,1,10,20,6.77966101694915,0
+"622","Prince Albert","47745","College, CEGEP or other non-
+university certificate or
+diploma",8,1,95,80,27.1186440677966,0
+"623","Prince Albert","47745","University certificate or
+diploma below bachelor level",9,1,0,10,3.38983050847458,0
+"624","Prince Albert","47745","University certificate,
+diploma or degree at bachelor
+level or above",10,1,160,130,44.0677966101695,0
+"625","Estevan","47750","No certificate, diploma or
+degree",2,1,0,0,0,0
+"626","Estevan","47750","Secondary (high) school
+diploma or equivalency
+certificate",3,1,0,0,0,0
+"627","Estevan","47750","Apprenticeship or trades
+certificate or diploma",5,1,20,20,22.2222222222222,0
+"628","Estevan","47750","College, CEGEP or other non-
+university certificate or
+diploma",8,1,20,20,22.2222222222222,0
+"629","Estevan","47750","University certificate or
+diploma below bachelor level",9,1,0,0,0,0
+"630","Estevan","47750","University certificate,
+diploma or degree at bachelor
+level or above",10,1,40,50,55.5555555555556,0
+"631","Weyburn","47755","No certificate, diploma or
+degree",2,1,10,0,0,0
+"632","Weyburn","47755","Secondary (high) school
+diploma or equivalency
+certificate",3,1,10,10,8.33333333333333,0
+"633","Weyburn","47755","Apprenticeship or trades
+certificate or diploma",5,1,10,10,8.33333333333333,0
+"634","Weyburn","47755","College, CEGEP or other non-
+university certificate or
+diploma",8,1,55,40,33.3333333333333,0
+"635","Weyburn","47755","University certificate or
+diploma below bachelor level",9,1,10,0,0,0
+"636","Weyburn","47755","University certificate,
+diploma or degree at bachelor
+level or above",10,1,40,60,50,0
+"637","Medicine Hat","48805","No certificate, diploma or
+degree",2,1,0,10,1.2987012987013,0
+"638","Medicine Hat","48805","Secondary (high) school
+diploma or equivalency
+certificate",3,1,95,90,11.6883116883117,0
+"639","Medicine Hat","48805","Apprenticeship or trades
+certificate or diploma",5,1,95,100,12.987012987013,0
+"640","Medicine Hat","48805","College, CEGEP or other non-
+university certificate or
+diploma",8,1,255,260,33.7662337662338,0
+"641","Medicine Hat","48805","University certificate or
+diploma below bachelor level",9,1,20,10,1.2987012987013,0
+"642","Medicine Hat","48805","University certificate,
+diploma or degree at bachelor
+level or above",10,1,325,300,38.961038961039,0
+"643","Brooks","48806","No certificate, diploma or
+degree",2,1,0,0,0,0
+"644","Brooks","48806","Secondary (high) school
+diploma or equivalency
+certificate",3,1,20,20,28.5714285714286,0
+"645","Brooks","48806","Apprenticeship or trades
+certificate or diploma",5,1,20,10,14.2857142857143,0
+"646","Brooks","48806","College, CEGEP or other non-
+university certificate or
+diploma",8,1,30,20,28.5714285714286,0
+"647","Brooks","48806","University certificate or
+diploma below bachelor level",9,1,0,0,0,0
+"648","Brooks","48806","University certificate,
+diploma or degree at bachelor
+level or above",10,1,10,20,28.5714285714286,0
+"649","Lethbridge","48810","No certificate, diploma or
+degree",2,1,20,20,1.63265306122449,0
+"650","Lethbridge","48810","Secondary (high) school
+diploma or equivalency
+certificate",3,1,155,155,12.6530612244898,0
+"651","Lethbridge","48810","Apprenticeship or trades
+certificate or diploma",5,1,55,60,4.89795918367347,0
+"652","Lethbridge","48810","College, CEGEP or other non-
+university certificate or
+diploma",8,1,400,365,29.7959183673469,0
+"653","Lethbridge","48810","University certificate or
+diploma below bachelor level",9,1,10,40,3.26530612244898,0
+"654","Lethbridge","48810","University certificate,
+diploma or degree at bachelor
+level or above",10,1,575,585,47.7551020408163,0
+"655","Okotoks","48820","No certificate, diploma or
+degree",2,1,20,30,4.76190476190476,0
+"656","Okotoks","48820","Secondary (high) school
+diploma or equivalency
+certificate",3,1,130,125,19.8412698412698,0
+"657","Okotoks","48820","Apprenticeship or trades
+certificate or diploma",5,1,40,20,3.17460317460317,0
+"658","Okotoks","48820","College, CEGEP or other non-
+university certificate or
+diploma",8,1,195,165,26.1904761904762,0
+"659","Okotoks","48820","University certificate or
+diploma below bachelor level",9,1,20,0,0,0
+"660","Okotoks","48820","University certificate,
+diploma or degree at bachelor
+level or above",10,1,315,290,46.031746031746,0
+"661","High River","48821","No certificate, diploma or
+degree",2,1,0,0,0,0
+"662","High River","48821","Secondary (high) school
+diploma or equivalency
+certificate",3,1,10,20,11.1111111111111,0
+"663","High River","48821","Apprenticeship or trades
+certificate or diploma",5,1,10,0,0,0
+"664","High River","48821","College, CEGEP or other non-
+university certificate or
+diploma",8,1,45,75,41.6666666666667,0
+"665","High River","48821","University certificate or
+diploma below bachelor level",9,1,20,10,5.55555555555556,0
+"666","High River","48821","University certificate,
+diploma or degree at bachelor
+level or above",10,1,95,75,41.6666666666667,0
+"667","Calgary","48825","No certificate, diploma or
+degree",2,1,320,320,0.564921881896019,0
+"668","Calgary","48825","Secondary (high) school
+diploma or equivalency
+certificate",3,1,4675,4295,7.58231088357313,0
+"669","Calgary","48825","Apprenticeship or trades
+certificate or diploma",5,1,1270,1185,2.0919763438962,0
+"670","Calgary","48825","College, CEGEP or other non-
+university certificate or
+diploma",8,1,11315,10265,18.1216347426957,0
+"671","Calgary","48825","University certificate or
+diploma below bachelor level",9,1,1955,1770,3.12472415923736,0
+"672","Calgary","48825","University certificate,
+diploma or degree at bachelor
+level or above",10,1,43425,38810,68.5144319887016,0
+"673","Strathmore","48826","No certificate, diploma or
+degree",2,1,0,0,0,0
+"674","Strathmore","48826","Secondary (high) school
+diploma or equivalency
+certificate",3,1,40,30,30,0
+"675","Strathmore","48826","Apprenticeship or trades
+certificate or diploma",5,1,0,10,10,0
+"676","Strathmore","48826","College, CEGEP or other non-
+university certificate or
+diploma",8,1,30,20,20,0
+"677","Strathmore","48826","University certificate or
+diploma below bachelor level",9,1,10,10,10,0
+"678","Strathmore","48826","University certificate,
+diploma or degree at bachelor
+level or above",10,1,35,30,30,0
+"679","Canmore","48828","No certificate, diploma or
+degree",2,1,0,0,0,0
+"680","Canmore","48828","Secondary (high) school
+diploma or equivalency
+certificate",3,1,40,20,6.55737704918033,0
+"681","Canmore","48828","Apprenticeship or trades
+certificate or diploma",5,1,10,20,6.55737704918033,0
+"682","Canmore","48828","College, CEGEP or other non-
+university certificate or
+diploma",8,1,100,75,24.5901639344262,0
+"683","Canmore","48828","University certificate or
+diploma below bachelor level",9,1,10,20,6.55737704918033,0
+"684","Canmore","48828","University certificate,
+diploma or degree at bachelor
+level or above",10,1,185,170,55.7377049180328,0
+"685","Red Deer","48830","No certificate, diploma or
+degree",2,1,30,20,1.33333333333333,0
+"686","Red Deer","48830","Secondary (high) school
+diploma or equivalency
+certificate",3,1,175,160,10.6666666666667,0
+"687","Red Deer","48830","Apprenticeship or trades
+certificate or diploma",5,1,175,145,9.66666666666667,0
+"688","Red Deer","48830","College, CEGEP or other non-
+university certificate or
+diploma",8,1,470,430,28.6666666666667,0
+"689","Red Deer","48830","University certificate or
+diploma below bachelor level",9,1,20,40,2.66666666666667,0
+"690","Red Deer","48830","University certificate,
+diploma or degree at bachelor
+level or above",10,1,730,705,47,0
+"691","Sylvan Lake","48831","No certificate, diploma or
+degree",2,1,10,0,0,0
+"692","Sylvan Lake","48831","Secondary (high) school
+diploma or equivalency
+certificate",3,1,60,20,15.3846153846154,0
+"693","Sylvan Lake","48831","Apprenticeship or trades
+certificate or diploma",5,1,30,30,23.0769230769231,0
+"694","Sylvan Lake","48831","College, CEGEP or other non-
+university certificate or
+diploma",8,1,60,60,46.1538461538462,0
+"695","Sylvan Lake","48831","University certificate or
+diploma below bachelor level",9,1,0,0,0,0
+"696","Sylvan Lake","48831","University certificate,
+diploma or degree at bachelor
+level or above",10,1,20,20,15.3846153846154,0
+"697","Lacombe","48832","No certificate, diploma or
+degree",2,1,0,0,0,0
+"698","Lacombe","48832","Secondary (high) school
+diploma or equivalency
+certificate",3,1,10,10,15.3846153846154,0
+"699","Lacombe","48832","Apprenticeship or trades
+certificate or diploma",5,1,0,0,0,0
+"700","Lacombe","48832","College, CEGEP or other non-
+university certificate or
+diploma",8,1,20,20,30.7692307692308,0
+"701","Lacombe","48832","University certificate or
+diploma below bachelor level",9,1,0,0,0,0
+"702","Lacombe","48832","University certificate,
+diploma or degree at bachelor
+level or above",10,1,45,35,53.8461538461538,0
+"703","Camrose","48833","No certificate, diploma or
+degree",2,1,0,0,0,0
+"704","Camrose","48833","Secondary (high) school
+diploma or equivalency
+certificate",3,1,30,50,33.3333333333333,0
+"705","Camrose","48833","Apprenticeship or trades
+certificate or diploma",5,1,0,0,0,0
+"706","Camrose","48833","College, CEGEP or other non-
+university certificate or
+diploma",8,1,45,60,40,0
+"707","Camrose","48833","University certificate or
+diploma below bachelor level",9,1,0,0,0,0
+"708","Camrose","48833","University certificate,
+diploma or degree at bachelor
+level or above",10,1,70,40,26.6666666666667,0
+"709","Edmonton","48835","No certificate, diploma or
+degree",2,1,225,205,0.633987938766043,0
+"710","Edmonton","48835","Secondary (high) school
+diploma or equivalency
+certificate",3,1,3180,2985,9.23148291325189,0
+"711","Edmonton","48835","Apprenticeship or trades
+certificate or diploma",5,1,1165,1130,3.49466522344209,0
+"712","Edmonton","48835","College, CEGEP or other non-
+university certificate or
+diploma",8,1,8645,8245,25.4986856347611,0
+"713","Edmonton","48835","University certificate or
+diploma below bachelor level",9,1,1095,1015,3.1390134529148,0
+"714","Edmonton","48835","University certificate,
+diploma or degree at bachelor
+level or above",10,1,20035,18755,58.0021648368641,0
+"715","Lloydminster","48840","No certificate, diploma or
+degree",2,1,0,0,0,0
+"716","Lloydminster","48840","Secondary (high) school
+diploma or equivalency
+certificate",3,1,35,15,4.05405405405405,0
+"717","Lloydminster","48840","Apprenticeship or trades
+certificate or diploma",5,1,25,20,5.40540540540541,0
+"718","Lloydminster","48840","College, CEGEP or other non-
+university certificate or
+diploma",8,1,120,120,32.4324324324324,0
+"719","Lloydminster","48840","University certificate or
+diploma below bachelor level",9,1,10,20,5.40540540540541,0
+"720","Lloydminster","48840","University certificate,
+diploma or degree at bachelor
+level or above",10,1,205,195,52.7027027027027,0
+"721","Cold Lake","48845","No certificate, diploma or
+degree",2,1,10,0,0,0
+"722","Cold Lake","48845","Secondary (high) school
+diploma or equivalency
+certificate",3,1,40,40,19.047619047619,0
+"723","Cold Lake","48845","Apprenticeship or trades
+certificate or diploma",5,1,30,20,9.52380952380952,0
+"724","Cold Lake","48845","College, CEGEP or other non-
+university certificate or
+diploma",8,1,30,45,21.4285714285714,0
+"725","Cold Lake","48845","University certificate or
+diploma below bachelor level",9,1,0,0,0,0
+"726","Cold Lake","48845","University certificate,
+diploma or degree at bachelor
+level or above",10,1,105,105,50,0
+"727","Grande Prairie","48850","No certificate, diploma or
+degree",2,1,30,10,1.31578947368421,0
+"728","Grande Prairie","48850","Secondary (high) school
+diploma or equivalency
+certificate",3,1,135,145,19.0789473684211,0
+"729","Grande Prairie","48850","Apprenticeship or trades
+certificate or diploma",5,1,70,70,9.21052631578947,0
+"730","Grande Prairie","48850","College, CEGEP or other non-
+university certificate or
+diploma",8,1,230,250,32.8947368421053,0
+"731","Grande Prairie","48850","University certificate or
+diploma below bachelor level",9,1,10,10,1.31578947368421,0
+"732","Grande Prairie","48850","University certificate,
+diploma or degree at bachelor
+level or above",10,1,270,275,36.1842105263158,0
+"733","Wood Buffalo","48860","No certificate, diploma or
+degree",2,1,0,0,0,0
+"734","Wood Buffalo","48860","Secondary (high) school
+diploma or equivalency
+certificate",3,1,125,120,6.68523676880223,0
+"735","Wood Buffalo","48860","Apprenticeship or trades
+certificate or diploma",5,1,70,85,4.73537604456825,0
+"736","Wood Buffalo","48860","College, CEGEP or other non-
+university certificate or
+diploma",8,1,280,250,13.9275766016713,0
+"737","Wood Buffalo","48860","University certificate or
+diploma below bachelor level",9,1,45,50,2.78551532033426,0
+"738","Wood Buffalo","48860","University certificate,
+diploma or degree at bachelor
+level or above",10,1,1325,1290,71.866295264624,0
+"739","Wetaskiwin","48865","No certificate, diploma or
+degree",2,1,0,0,0,0
+"740","Wetaskiwin","48865","Secondary (high) school
+diploma or equivalency
+certificate",3,1,30,20,28.5714285714286,0
+"741","Wetaskiwin","48865","Apprenticeship or trades
+certificate or diploma",5,1,10,20,28.5714285714286,0
+"742","Wetaskiwin","48865","College, CEGEP or other non-
+university certificate or
+diploma",8,1,30,20,28.5714285714286,0
+"743","Wetaskiwin","48865","University certificate or
+diploma below bachelor level",9,1,0,0,0,0
+"744","Wetaskiwin","48865","University certificate,
+diploma or degree at bachelor
+level or above",10,1,20,10,14.2857142857143,0
+"745","Cranbrook","59905","No certificate, diploma or
+degree",2,1,10,0,0,0
+"746","Cranbrook","59905","Secondary (high) school
+diploma or equivalency
+certificate",3,1,65,80,35.5555555555556,0
+"747","Cranbrook","59905","Apprenticeship or trades
+certificate or diploma",5,1,40,0,0,0
+"748","Cranbrook","59905","College, CEGEP or other non-
+university certificate or
+diploma",8,1,95,80,35.5555555555556,0
+"749","Cranbrook","59905","University certificate or
+diploma below bachelor level",9,1,10,10,4.44444444444444,0
+"750","Cranbrook","59905","University certificate,
+diploma or degree at bachelor
+level or above",10,1,65,55,24.4444444444444,0
+"751","Nelson","59907","No certificate, diploma or
+degree",2,1,10,10,2.5,0
+"752","Nelson","59907","Secondary (high) school
+diploma or equivalency
+certificate",3,1,20,50,12.5,0
+"753","Nelson","59907","Apprenticeship or trades
+certificate or diploma",5,1,20,10,2.5,0
+"754","Nelson","59907","College, CEGEP or other non-
+university certificate or
+diploma",8,1,95,95,23.75,0
+"755","Nelson","59907","University certificate or
+diploma below bachelor level",9,1,20,20,5,0
+"756","Nelson","59907","University certificate,
+diploma or degree at bachelor
+level or above",10,1,240,215,53.75,0
+"757","Penticton","59913","No certificate, diploma or
+degree",2,1,0,0,0,0
+"758","Penticton","59913","Secondary (high) school
+diploma or equivalency
+certificate",3,1,75,65,18.3098591549296,0
+"759","Penticton","59913","Apprenticeship or trades
+certificate or diploma",5,1,50,20,5.63380281690141,0
+"760","Penticton","59913","College, CEGEP or other non-
+university certificate or
+diploma",8,1,105,115,32.3943661971831,0
+"761","Penticton","59913","University certificate or
+diploma below bachelor level",9,1,20,10,2.8169014084507,0
+"762","Penticton","59913","University certificate,
+diploma or degree at bachelor
+level or above",10,1,125,145,40.8450704225352,0
+"763","Kelowna","59915","No certificate, diploma or
+degree",2,1,35,30,0.955414012738854,0
+"764","Kelowna","59915","Secondary (high) school
+diploma or equivalency
+certificate",3,1,465,445,14.171974522293,0
+"765","Kelowna","59915","Apprenticeship or trades
+certificate or diploma",5,1,190,160,5.09554140127389,0
+"766","Kelowna","59915","College, CEGEP or other non-
+university certificate or
+diploma",8,1,1175,1145,36.4649681528662,0
+"767","Kelowna","59915","University certificate or
+diploma below bachelor level",9,1,120,115,3.6624203821656,0
+"768","Kelowna","59915","University certificate,
+diploma or degree at bachelor
+level or above",10,1,1310,1245,39.6496815286624,0
+"769","Vernon","59918","No certificate, diploma or
+degree",2,1,0,0,0,0
+"770","Vernon","59918","Secondary (high) school
+diploma or equivalency
+certificate",3,1,135,140,18.4210526315789,0
+"771","Vernon","59918","Apprenticeship or trades
+certificate or diploma",5,1,25,30,3.94736842105263,0
+"772","Vernon","59918","College, CEGEP or other non-
+university certificate or
+diploma",8,1,280,270,35.5263157894737,0
+"773","Vernon","59918","University certificate or
+diploma below bachelor level",9,1,35,55,7.23684210526316,0
+"774","Vernon","59918","University certificate,
+diploma or degree at bachelor
+level or above",10,1,245,265,34.8684210526316,0
+"775","Salmon Arm","59920","No certificate, diploma or
+degree",2,1,0,0,0,0
+"776","Salmon Arm","59920","Secondary (high) school
+diploma or equivalency
+certificate",3,1,20,30,15.3846153846154,0
+"777","Salmon Arm","59920","Apprenticeship or trades
+certificate or diploma",5,1,30,10,5.12820512820513,0
+"778","Salmon Arm","59920","College, CEGEP or other non-
+university certificate or
+diploma",8,1,80,85,43.5897435897436,0
+"779","Salmon Arm","59920","University certificate or
+diploma below bachelor level",9,1,20,10,5.12820512820513,0
+"780","Salmon Arm","59920","University certificate,
+diploma or degree at bachelor
+level or above",10,1,70,60,30.7692307692308,0
+"781","Kamloops","59925","No certificate, diploma or
+degree",2,1,10,0,0,0
+"782","Kamloops","59925","Secondary (high) school
+diploma or equivalency
+certificate",3,1,215,210,14.5833333333333,0
+"783","Kamloops","59925","Apprenticeship or trades
+certificate or diploma",5,1,95,80,5.55555555555556,0
+"784","Kamloops","59925","College, CEGEP or other non-
+university certificate or
+diploma",8,1,390,405,28.125,0
+"785","Kamloops","59925","University certificate or
+diploma below bachelor level",9,1,140,130,9.02777777777778,0
+"786","Kamloops","59925","University certificate,
+diploma or degree at bachelor
+level or above",10,1,645,615,42.7083333333333,0
+"787","Chilliwack","59930","No certificate, diploma or
+degree",2,1,55,40,4.54545454545455,0
+"788","Chilliwack","59930","Secondary (high) school
+diploma or equivalency
+certificate",3,1,220,190,21.5909090909091,0
+"789","Chilliwack","59930","Apprenticeship or trades
+certificate or diploma",5,1,70,60,6.81818181818182,0
+"790","Chilliwack","59930","College, CEGEP or other non-
+university certificate or
+diploma",8,1,270,270,30.6818181818182,0
+"791","Chilliwack","59930","University certificate or
+diploma below bachelor level",9,1,60,70,7.95454545454545,0
+"792","Chilliwack","59930","University certificate,
+diploma or degree at bachelor
+level or above",10,1,275,250,28.4090909090909,0
+"793","Abbotsford - Mission","59932","No certificate, diploma or
+degree",2,1,40,40,2.20994475138122,0
+"794","Abbotsford - Mission","59932","Secondary (high) school
+diploma or equivalency
+certificate",3,1,320,295,16.2983425414365,0
+"795","Abbotsford - Mission","59932","Apprenticeship or trades
+certificate or diploma",5,1,100,145,8.01104972375691,0
+"796","Abbotsford - Mission","59932","College, CEGEP or other non-
+university certificate or
+diploma",8,1,570,560,30.939226519337,0
+"797","Abbotsford - Mission","59932","University certificate or
+diploma below bachelor level",9,1,120,110,6.07734806629834,0
+"798","Abbotsford - Mission","59932","University certificate,
+diploma or degree at bachelor
+level or above",10,1,720,660,36.4640883977901,0
+"799","Vancouver","59933","No certificate, diploma or
+degree",2,1,440,430,0.546413368066586,0
+"800","Vancouver","59933","Secondary (high) school
+diploma or equivalency
+certificate",3,1,7755,7325,9.30808818857615,0
+"801","Vancouver","59933","Apprenticeship or trades
+certificate or diploma",5,1,1850,1780,2.26189719804308,0
+"802","Vancouver","59933","College, CEGEP or other non-
+university certificate or
+diploma",8,1,15435,14975,19.0291632251096,0
+"803","Vancouver","59933","University certificate or
+diploma below bachelor level",9,1,3265,3115,3.95832009657539,0
+"804","Vancouver","59933","University certificate,
+diploma or degree at bachelor
+level or above",10,1,52835,51070,64.8961179236292,0
+"805","Squamish","59934","No certificate, diploma or
+degree",2,1,0,10,2.24719101123596,0
+"806","Squamish","59934","Secondary (high) school
+diploma or equivalency
+certificate",3,1,35,35,7.86516853932584,0
+"807","Squamish","59934","Apprenticeship or trades
+certificate or diploma",5,1,10,0,0,0
+"808","Squamish","59934","College, CEGEP or other non-
+university certificate or
+diploma",8,1,165,140,31.4606741573034,0
+"809","Squamish","59934","University certificate or
+diploma below bachelor level",9,1,20,20,4.49438202247191,0
+"810","Squamish","59934","University certificate,
+diploma or degree at bachelor
+level or above",10,1,260,240,53.9325842696629,0
+"811","Victoria","59935","No certificate, diploma or
+degree",2,1,105,85,0.813397129186603,0
+"812","Victoria","59935","Secondary (high) school
+diploma or equivalency
+certificate",3,1,1310,1240,11.866028708134,0
+"813","Victoria","59935","Apprenticeship or trades
+certificate or diploma",5,1,310,320,3.0622009569378,0
+"814","Victoria","59935","College, CEGEP or other non-
+university certificate or
+diploma",8,1,2825,2775,26.555023923445,0
+"815","Victoria","59935","University certificate or
+diploma below bachelor level",9,1,340,345,3.30143540669856,0
+"816","Victoria","59935","University certificate,
+diploma or degree at bachelor
+level or above",10,1,5865,5685,54.4019138755981,0
+"817","Duncan","59937","No certificate, diploma or
+degree",2,1,0,10,1.92307692307692,0
+"818","Duncan","59937","Secondary (high) school
+diploma or equivalency
+certificate",3,1,105,110,21.1538461538462,0
+"819","Duncan","59937","Apprenticeship or trades
+certificate or diploma",5,1,60,20,3.84615384615385,0
+"820","Duncan","59937","College, CEGEP or other non-
+university certificate or
+diploma",8,1,160,155,29.8076923076923,0
+"821","Duncan","59937","University certificate or
+diploma below bachelor level",9,1,20,20,3.84615384615385,0
+"822","Duncan","59937","University certificate,
+diploma or degree at bachelor
+level or above",10,1,170,205,39.4230769230769,0
+"823","Nanaimo","59938","No certificate, diploma or
+degree",2,1,30,30,2.04081632653061,0
+"824","Nanaimo","59938","Secondary (high) school
+diploma or equivalency
+certificate",3,1,330,325,22.108843537415,0
+"825","Nanaimo","59938","Apprenticeship or trades
+certificate or diploma",5,1,115,120,8.16326530612245,0
+"826","Nanaimo","59938","College, CEGEP or other non-
+university certificate or
+diploma",8,1,405,360,24.4897959183673,0
+"827","Nanaimo","59938","University certificate or
+diploma below bachelor level",9,1,80,85,5.78231292517007,0
+"828","Nanaimo","59938","University certificate,
+diploma or degree at bachelor
+level or above",10,1,545,550,37.4149659863946,0
+"829","Parksville","59939","No certificate, diploma or
+degree",2,1,10,10,3.92156862745098,0
+"830","Parksville","59939","Secondary (high) school
+diploma or equivalency
+certificate",3,1,45,50,19.6078431372549,0
+"831","Parksville","59939","Apprenticeship or trades
+certificate or diploma",5,1,10,30,11.7647058823529,0
+"832","Parksville","59939","College, CEGEP or other non-
+university certificate or
+diploma",8,1,90,60,23.5294117647059,0
+"833","Parksville","59939","University certificate or
+diploma below bachelor level",9,1,10,10,3.92156862745098,0
+"834","Parksville","59939","University certificate,
+diploma or degree at bachelor
+level or above",10,1,100,95,37.2549019607843,0
+"835","Port Alberni","59940","No certificate, diploma or
+degree",2,1,10,20,14.2857142857143,0
+"836","Port Alberni","59940","Secondary (high) school
+diploma or equivalency
+certificate",3,1,10,10,7.14285714285714,0
+"837","Port Alberni","59940","Apprenticeship or trades
+certificate or diploma",5,1,10,10,7.14285714285714,0
+"838","Port Alberni","59940","College, CEGEP or other non-
+university certificate or
+diploma",8,1,60,70,50,0
+"839","Port Alberni","59940","University certificate or
+diploma below bachelor level",9,1,10,0,0,0
+"840","Port Alberni","59940","University certificate,
+diploma or degree at bachelor
+level or above",10,1,35,30,21.4285714285714,0
+"841","Courtenay","59943","No certificate, diploma or
+degree",2,1,0,0,0,0
+"842","Courtenay","59943","Secondary (high) school
+diploma or equivalency
+certificate",3,1,95,65,12.7450980392157,0
+"843","Courtenay","59943","Apprenticeship or trades
+certificate or diploma",5,1,45,65,12.7450980392157,0
+"844","Courtenay","59943","College, CEGEP or other non-
+university certificate or
+diploma",8,1,140,160,31.3725490196078,0
+"845","Courtenay","59943","University certificate or
+diploma below bachelor level",9,1,40,20,3.92156862745098,0
+"846","Courtenay","59943","University certificate,
+diploma or degree at bachelor
+level or above",10,1,200,200,39.2156862745098,0
+"847","Campbell River","59944","No certificate, diploma or
+degree",2,1,10,10,4.16666666666667,0
+"848","Campbell River","59944","Secondary (high) school
+diploma or equivalency
+certificate",3,1,35,40,16.6666666666667,0
+"849","Campbell River","59944","Apprenticeship or trades
+certificate or diploma",5,1,40,30,12.5,0
+"850","Campbell River","59944","College, CEGEP or other non-
+university certificate or
+diploma",8,1,75,45,18.75,0
+"851","Campbell River","59944","University certificate or
+diploma below bachelor level",9,1,10,10,4.16666666666667,0
+"852","Campbell River","59944","University certificate,
+diploma or degree at bachelor
+level or above",10,1,85,105,43.75,0
+"853","Powell River","59945","No certificate, diploma or
+degree",2,1,0,0,0,0
+"854","Powell River","59945","Secondary (high) school
+diploma or equivalency
+certificate",3,1,10,30,27.2727272727273,0
+"855","Powell River","59945","Apprenticeship or trades
+certificate or diploma",5,1,10,10,9.09090909090909,0
+"856","Powell River","59945","College, CEGEP or other non-
+university certificate or
+diploma",8,1,40,20,18.1818181818182,0
+"857","Powell River","59945","University certificate or
+diploma below bachelor level",9,1,10,10,9.09090909090909,0
+"858","Powell River","59945","University certificate,
+diploma or degree at bachelor
+level or above",10,1,20,40,36.3636363636364,0
+"859","Williams Lake","59950","No certificate, diploma or
+degree",2,1,0,0,0,0
+"860","Williams Lake","59950","Secondary (high) school
+diploma or equivalency
+certificate",3,1,20,50,47.6190476190476,0
+"861","Williams Lake","59950","Apprenticeship or trades
+certificate or diploma",5,1,50,10,9.52380952380952,0
+"862","Williams Lake","59950","College, CEGEP or other non-
+university certificate or
+diploma",8,1,10,10,9.52380952380952,0
+"863","Williams Lake","59950","University certificate or
+diploma below bachelor level",9,1,0,0,0,0
+"864","Williams Lake","59950","University certificate,
+diploma or degree at bachelor
+level or above",10,1,30,35,33.3333333333333,0
+"865","Quesnel","59952","No certificate, diploma or
+degree",2,1,0,0,0,0
+"866","Quesnel","59952","Secondary (high) school
+diploma or equivalency
+certificate",3,1,45,35,17.5,0
+"867","Quesnel","59952","Apprenticeship or trades
+certificate or diploma",5,1,10,20,10,0
+"868","Quesnel","59952","College, CEGEP or other non-
+university certificate or
+diploma",8,1,40,55,27.5,0
+"869","Quesnel","59952","University certificate or
+diploma below bachelor level",9,1,0,10,5,0
+"870","Quesnel","59952","University certificate,
+diploma or degree at bachelor
+level or above",10,1,70,80,40,0
+"871","Prince Rupert","59955","No certificate, diploma or
+degree",2,1,0,0,0,0
+"872","Prince Rupert","59955","Secondary (high) school
+diploma or equivalency
+certificate",3,1,10,0,0,0
+"873","Prince Rupert","59955","Apprenticeship or trades
+certificate or diploma",5,1,20,10,14.2857142857143,0
+"874","Prince Rupert","59955","College, CEGEP or other non-
+university certificate or
+diploma",8,1,20,30,42.8571428571429,0
+"875","Prince Rupert","59955","University certificate or
+diploma below bachelor level",9,1,0,0,0,0
+"876","Prince Rupert","59955","University certificate,
+diploma or degree at bachelor
+level or above",10,1,20,30,42.8571428571429,0
+"877","Terrace","59965","No certificate, diploma or
+degree",2,1,0,10,6.45161290322581,0
+"878","Terrace","59965","Secondary (high) school
+diploma or equivalency
+certificate",3,1,20,40,25.8064516129032,0
+"879","Terrace","59965","Apprenticeship or trades
+certificate or diploma",5,1,20,10,6.45161290322581,0
+"880","Terrace","59965","College, CEGEP or other non-
+university certificate or
+diploma",8,1,80,60,38.7096774193548,0
+"881","Terrace","59965","University certificate or
+diploma below bachelor level",9,1,0,0,0,0
+"882","Terrace","59965","University certificate,
+diploma or degree at bachelor
+level or above",10,1,40,35,22.5806451612903,0
+"883","Prince George","59970","No certificate, diploma or
+degree",2,1,25,20,1.70940170940171,0
+"884","Prince George","59970","Secondary (high) school
+diploma or equivalency
+certificate",3,1,195,200,17.0940170940171,0
+"885","Prince George","59970","Apprenticeship or trades
+certificate or diploma",5,1,70,65,5.55555555555556,0
+"886","Prince George","59970","College, CEGEP or other non-
+university certificate or
+diploma",8,1,365,345,29.4871794871795,0
+"887","Prince George","59970","University certificate or
+diploma below bachelor level",9,1,30,50,4.27350427350427,0
+"888","Prince George","59970","University certificate,
+diploma or degree at bachelor
+level or above",10,1,500,490,41.8803418803419,0
+"889","Dawson Creek","59975","No certificate, diploma or
+degree",2,1,0,0,0,0
+"890","Dawson Creek","59975","Secondary (high) school
+diploma or equivalency
+certificate",3,1,10,10,14.2857142857143,0
+"891","Dawson Creek","59975","Apprenticeship or trades
+certificate or diploma",5,1,20,10,14.2857142857143,0
+"892","Dawson Creek","59975","College, CEGEP or other non-
+university certificate or
+diploma",8,1,20,30,42.8571428571429,0
+"893","Dawson Creek","59975","University certificate or
+diploma below bachelor level",9,1,0,0,0,0
+"894","Dawson Creek","59975","University certificate,
+diploma or degree at bachelor
+level or above",10,1,20,20,28.5714285714286,0
+"895","Fort St. John","59977","No certificate, diploma or
+degree",2,1,10,0,0,0
+"896","Fort St. John","59977","Secondary (high) school
+diploma or equivalency
+certificate",3,1,65,95,30.6451612903226,0
+"897","Fort St. John","59977","Apprenticeship or trades
+certificate or diploma",5,1,40,10,3.2258064516129,0
+"898","Fort St. John","59977","College, CEGEP or other non-
+university certificate or
+diploma",8,1,95,90,29.0322580645161,0
+"899","Fort St. John","59977","University certificate or
+diploma below bachelor level",9,1,0,0,0,0
+"900","Fort St. John","59977","University certificate,
+diploma or degree at bachelor
+level or above",10,1,125,115,37.0967741935484,0
+"901","Whitehorse","60990","No certificate, diploma or
+degree",2,1,10,10,1.6,0
+"902","Whitehorse","60990","Secondary (high) school
+diploma or equivalency
+certificate",3,1,115,100,16,0
+"903","Whitehorse","60990","Apprenticeship or trades
+certificate or diploma",5,1,30,40,6.4,0
+"904","Whitehorse","60990","College, CEGEP or other non-
+university certificate or
+diploma",8,1,150,175,28,0
+"905","Whitehorse","60990","University certificate or
+diploma below bachelor level",9,1,0,0,0,0
+"906","Whitehorse","60990","University certificate,
+diploma or degree at bachelor
+level or above",10,1,290,300,48,0
+"907","Yellowknife","61995","No certificate, diploma or
+degree",2,1,10,0,0,0
+"908","Yellowknife","61995","Secondary (high) school
+diploma or equivalency
+certificate",3,1,65,65,13,0
+"909","Yellowknife","61995","Apprenticeship or trades
+certificate or diploma",5,1,10,0,0,0
+"910","Yellowknife","61995","College, CEGEP or other non-
+university certificate or
+diploma",8,1,175,165,33,0
+"911","Yellowknife","61995","University certificate or
+diploma below bachelor level",9,1,30,20,4,0
+"912","Yellowknife","61995","University certificate,
+diploma or degree at bachelor
+level or above",10,1,250,250,50,0
